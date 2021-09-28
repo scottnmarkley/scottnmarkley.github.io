@@ -20,9 +20,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "About"}
   - {file: "README.md", title: "Projects"}
   - {file: "markley_cv.pdf", title: "CV"}
+  - {file: "email.md", title: "Email", icon: envelope}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:scott.markley@uga.edu"}
+  #- {title: Mail, icon: envelope, url: "mailto:scott.markley@uga.edu"}
   - {title: Github, icon: github, url: "https://github.com/snmarkley1"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/snmarkley"}
   - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=onwbEAoAAAAJ&hl=en&oi=ao"}
