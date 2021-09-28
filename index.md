@@ -7,4 +7,4 @@ I am a PhD candidate in the [Department of Geography](https://geography.uga.edu/
 
 My current project looks into the New Deal-era federal ["redlining" mapping program](https://dsl.richmond.edu/panorama/redlining/#loc=4/40.886/-105.499&text=intro) operated by the Home Owners' Loan Corporation (HOLC). Specifically, I position this program within the longer histories of racial capitalism and highlight their role in tightening the bonds linking race and economic value together in geographic space. As part of this effort, I have tabulated the variables in the maps' accompanying "Area Description" sheets. I have made this richly detailed historical data available for [download](https://osf.io/qytj8/). Users can access the R code [here](https://github.com/snmarkley1/HOLC_ADS).
 
-Please feel free to contact me if you have questions about this work.
+Please feel free to contact me if you have any questions about this work.
