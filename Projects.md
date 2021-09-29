@@ -8,11 +8,9 @@ My ongoing dissertation project studies the New Deal-era HOLC mapping program. T
 <p float="left">
   <img src="/ATLHOLC.jpg" width="480" height = 495 title="Atlanta HOLC Map"/>
   <img src="/ATLADS.jpg" width="300" height = 495 title="Sample 'Area Description' Sheet"/>
-  <figcaption> Source: <a href="https://dsl.richmond.edu/panorama/redlining/#loc=4/40.886/-105.499&text=downloads"><em>Mapping Inequality</em></a> </figcaption>
+  <figcaption>Source: <a href="https://dsl.richmond.edu/panorama/redlining/#loc=4/40.886/-105.499&text=downloads"><em>Mapping Inequality</em></a></figcaption>
 </p>
 
-
-> Source: [*Mapping Inequality*](https://dsl.richmond.edu/panorama/redlining/#loc=4/40.886/-105.499&text=downloads)
 
 <iframe
     width="800"
