@@ -9,4 +9,4 @@ My current project looks into the federal, New Deal-era ["redlining" mapping pro
 
 Please feel free to contact me if you have any questions about this work.
 
-<iframe width="800" height="450" src="https://rpubs.com/snmarkley1/815677" > </iframe>
+<iframe width="800" height="450" src="holc_map.html" > </iframe>
