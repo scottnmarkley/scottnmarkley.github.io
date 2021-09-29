@@ -1,8 +1,5 @@
----
-type: page
-title: Projects
----
 
+# Projects
 
 ## HOLC Maps & Field Notes
 <iframe src="holc_map.html"
