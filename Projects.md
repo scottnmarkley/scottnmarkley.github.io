@@ -1,5 +1,3 @@
-
-## HOLC Maps & Description Sheet Data
 <iframe id="HOLC_US"
     title="HOLC US"
     width="800"
