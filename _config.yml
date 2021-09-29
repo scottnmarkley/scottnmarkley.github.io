@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "http://localhost:30754/session/viewhtml30d0617d512e/index.html", title: "Projects"}
+  - {file: "map2.html", title: "Projects"}
   - {file: "markley_cv.pdf", title: "CV"}
   - {file: "email.md", title: "Contact"}
   - {file: "pic.md", title: "Pam Stuff"}
