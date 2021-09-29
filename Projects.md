@@ -3,7 +3,7 @@
 ## HOLC City Survey Program
 My ongoing dissertation project studies the 1930s HOLC mapping program.
 
-![]("ATL_HOLC.JPG")
+![](HOLC/ATL_HOLC.JPG)
 
 <iframe
     width="800"
