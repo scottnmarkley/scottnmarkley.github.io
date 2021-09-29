@@ -1,3 +1,4 @@
+
 title: "Scott Markley"
 author: "Scott Markley"
 description: "Geographer"
@@ -7,6 +8,7 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y
 
 # Layout
+
 show_social: true           # show social media links
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
