@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "http://localhost:30754/session/viewhtml30d0617d512e/index.html", title: "Projects"}
   - {file: "markley_cv.pdf", title: "CV"}
   - {file: "email.md", title: "Contact"}
-  - {file: "/pic.jpg", title: "Pam Stuff"}
+  - {file: "pic.jpg", title: "Pam Stuff"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   #- {title: Mail, icon: envelope, url: "mailto:scott.markley@uga.edu"}
