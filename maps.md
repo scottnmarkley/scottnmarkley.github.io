@@ -3,4 +3,8 @@ type: post
 title: Projects
 ---
 
-<iframe src="https://snmarkley1.github.io/holc_map.html", height="500", width="900"></iframe>
+<iframe src="holc_map.html"
+        width = "800"
+        height = "450">
+        </iframe>       
+
