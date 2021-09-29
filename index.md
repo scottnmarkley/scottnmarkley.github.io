@@ -11,5 +11,5 @@ Please feel free to contact me if you have any questions about this work.
 
 <iframe src="holc_map.html"
         width = "800"
-        height = "450"
+        height = "450">
         </iframe>       
