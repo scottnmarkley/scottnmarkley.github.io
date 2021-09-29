@@ -1,4 +1,4 @@
-## HOLC Maps & Field Notes
+## HOLC Maps & Description Sheets
 <iframe src="holc_map.html"
         width="800"
         height="450">
