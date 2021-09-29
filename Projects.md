@@ -6,8 +6,8 @@ title: Projects
 My ongoing dissertation project studies the New Deal-era HOLC mapping program. This initiative&mdash;officially called the "City Survey Program"&mdash;was instituted by the US federal government during the mid-1930s to map and grade thousands of neighborhoods in over 200 cities across the country (**see images below**). The infamous A-to-D grading system used to generate the maps reflected dominant ideas within the real-estate industry about how various neighborhood features impacted the investment potential of its residential properties. Among other demographic, socioeconomic, and locational characteristics, the visible presence of Black and non-white immigrants factored heavily in the grading process.
 
 <p float="left">
-  <img src="/HOLC/ATLHOLC.jpg" width="490"  title="Atlanta HOLC Map" />
-  <img src="/HOLC/ATLADS.jpg" width="325" title="Sample 'Area Description' Sheet" />
+  <img src="/HOLC/ATLHOLC.jpg" width="490" height = 505 title="Atlanta HOLC Map" />
+  <img src="/HOLC/ATLADS.jpg" width="315" height = 505 title="Sample 'Area Description' Sheet" />
 </p>
 > Source: [*Mapping Inequality*](https://dsl.richmond.edu/panorama/redlining/#loc=4/40.886/-105.499&text=downloads)
 
