@@ -1,4 +1,3 @@
-
 title: "Scott Markley"
 author: "Scott Markley"
 description: "Geographer"
@@ -18,6 +17,7 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "markley_cv.pdf", title: "CV"}
   - {file: "Projects.md", title: "Projects"}
   - {file: "pic.md", title: "Pam Stuff"}
 
