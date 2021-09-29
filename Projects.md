@@ -9,5 +9,5 @@ My ongoing dissertation project studies the New Deal-era HOLC mapping program. T
 <iframe
     width="800"
     height="450"
-    src=holc_map.html >
+    src="https://snmarkley1.github.io/holc_map.html" >
 </iframe>
