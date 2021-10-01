@@ -13,7 +13,7 @@ My ongoing dissertation project studies the New Deal-era HOLC mapping program. T
 
 The Digital Scholarship at the University of Richmond has made the HOLC maps and their field notes available for download as part of their [*Mapping Inequality*](https://dsl.richmond.edu/panorama/redlining/#loc=4/40.886/-105.499) project. They also make available a [shapefile and GeoJSON file](https://dsl.richmond.edu/panorama/redlining/#loc=4/40.886/-105.499&text=downloads) to allow for easy integration with most GIS software programs. Helping this effort, I have converted the data in the HOLC "Area Description" sheets into a convenient and readable table (available for download [here](https://osf.io/qytj8/)). HOLC variables such as the percent Black, percent "foreign born," and average building age midpoint are fully ready to be analyzed in the "ADS_FINAL.csv" file in the TABLES folder in the DATA_DOWNLOAD directory. These variables can be seen in the interactive map below.
 
-Zoom into a city and click on one of its HOLC neighborhoods to its attributes. Users may toggle the basemap by clicking the icon on the lefthand side.
+Zoom into a city and click on one of its HOLC neighborhoods to its attributes. You can toggle the basemap by clicking the layer icon on the lefthand side.
 
 <iframe
     width="800"
