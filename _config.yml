@@ -18,7 +18,7 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Projects.md", title: "Projects"}
-  - {file: "<a href="cv/CV_oct2021.pdf" type="application/pdf" alt=""></a> title: "CV"}
+  - {file: "<a href="cv/CV_oct2021.pdf" type="application/pdf" alt=""></a> title: "CV_"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   #- {title: Mail, icon: envelope, url: "mailto:scott.markley@uga.edu"}
