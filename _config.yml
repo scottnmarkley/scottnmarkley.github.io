@@ -5,7 +5,6 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-baseurl: "https://github.com/snmarkley1/snmarkley1.github.io"
 
 # Layout
 
@@ -19,7 +18,7 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Projects.md", title: "Projects"}
-  - {file: "/cv/CV_oct2021.pdf", title: "CV"}
+  - {url: "/cv/CV_oct2021.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   #- {title: Mail, icon: envelope, url: "mailto:scott.markley@uga.edu"}
