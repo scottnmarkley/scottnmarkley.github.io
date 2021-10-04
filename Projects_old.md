@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: HOLC Mapping Project
 ---
 
 ## HOLC City Survey Program
