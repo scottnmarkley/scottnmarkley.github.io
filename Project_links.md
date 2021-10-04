@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Projects1
+title: Projects
 ---
 
 
