@@ -4,6 +4,6 @@ title: Projects
 ---
 
 
-[!["HOLC Mapping Project"](https://raw.githubusercontent.com/snmarkley1/snmarkley1.github.io/master/Projects/HOLC_tile.jpg)][1]
-
-[1]: /Projects/HOLC.md
+<a href="/Projects/HOLC.md">
+  <img src="/Projects/HOLC_tile.jpg" width="400" title="HOLC Mapping Project"/>
+</a>
