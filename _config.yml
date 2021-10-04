@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Projects.md", title: "Projects"}
+  - {file: "ProjectLinks.md", title: "Projects"}
   - {url: "/cv/CV_oct2021.pdf", title: "CV"}
   - {url: "/Projects/HOLC.md", title: "TEST3"}
 
