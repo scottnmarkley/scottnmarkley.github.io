@@ -23,4 +23,4 @@ Zoom into a city and click on one of its HOLC neighborhoods to see its attribute
     src="/holc_map.html" >
 </iframe>
 
-For more information on how these variables were processed, please check out the *SocArXiv* preprint [here](https://osf.io/preprints/socarxiv/dktah/)
+For more information on how these variables were processed, please check out the *SocArXiv* [preprint](https://osf.io/preprints/socarxiv/dktah/).
