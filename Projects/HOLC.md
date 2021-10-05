@@ -20,8 +20,8 @@ Zoom into a city and click on one of its HOLC neighborhoods to see its attribute
 <iframe
     width="800"
     height="450"
-    src="/holc_map.html" >
-    title="Map Zoom"
+    src="/holc_map.html" 
+    title="Map Zoom" >
 </iframe>
 
 For more information on how these variables were processed, please check out the *SocArXiv* preprint [here](https://osf.io/preprints/socarxiv/dktah/)
