@@ -15,11 +15,11 @@ The Digital Scholarship at the University of Richmond has made the HOLC maps and
 
 Zoom into a city and click on one of its HOLC neighborhoods to see its attributes. You can toggle the basemap by clicking the layer icon on the lefthand side.
 
-[Map Zoom](https://snmarkley1.github.io/holc_map.html)
 <iframe
     width="800"
     height="450"
     src="/holc_map.html" >
 </iframe>
+<a href="https://snmarkley1.github.io/holc_map.html" target="_blank">Map Zoom</a>
 
 For more information on how these variables were processed, please check out the *SocArXiv* preprint [here](https://osf.io/preprints/socarxiv/dktah/)
