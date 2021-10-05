@@ -5,10 +5,18 @@ title: Projects
 
 <p style="text-align: center">
   <a href="https://snmarkley1.github.io/Projects/HOLC/">
-    <img src="/Projects/HOLC_tile.jpg" width="350" height="230" title="HOLC Mapping Project" alt="HOLC" style="border:2px solid #555"/>
+    <img src="/Projects/HOLC_tile.jpg" 
+         width="350" 
+         height="230" 
+         title="HOLC Mapping Project" 
+         style="border:2px solid #555;float:left" />
   </a>
   <a href="https://snmarkley1.github.io/Projects/HistHU/">
-    <img src="/Projects/HHUUD_tile.jpg" width="350" height="230" title="Historical Housing Unit Project" alt="HOLC" style="border:2px solid #555"/>
+    <img src="/Projects/HHUUD_tile.jpg" 
+         width="350" 
+         height="230" 
+         title="Historical Housing Unit Project" 
+         style="border:2px solid #555;clear:both" />
   </a>
 </p>
 
