@@ -21,6 +21,7 @@ Zoom into a city and click on one of its HOLC neighborhoods to see its attribute
     width="800"
     height="450"
     src="/holc_map.html" >
+    title=<a href="https://snmarkley1.github.io/holc_map.html" target="_blank">Map Zoom <i class="fa fa-external-link"></i></a>
 </iframe>
 
 For more information on how these variables were processed, please check out the *SocArXiv* preprint [here](https://osf.io/preprints/socarxiv/dktah/)
