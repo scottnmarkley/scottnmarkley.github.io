@@ -8,12 +8,12 @@ My ongoing dissertation project studies the New Deal-era HOLC mapping program. T
 <p style="text-align: center">
   <img src="/HOLC/ATLHOLC.jpg" width="470" title="Atlanta HOLC Map"/>
   <img src="/HOLC/ATLADS.jpg" width="245" title="Sample 'Area Description' Sheet"/>
-  <figcaption>Source: <a href="https://dsl.richmond.edu/panorama/redlining/#loc=4/40.886/-105.499&text=downloads"><em>Mapping Inequality</em></a></figcaption>
+  <figcaption>Source:<em>Mapping Inequality</em></figcaption>
 </p>
 
-The Digital Scholarship at the University of Richmond has made the HOLC maps and their field notes available for download as part of their [*Mapping Inequality*](https://dsl.richmond.edu/panorama/redlining/#loc=4/40.886/-105.499) project. They also make available a [shapefile and GeoJSON file](https://dsl.richmond.edu/panorama/redlining/#loc=4/40.886/-105.499&text=downloads) to allow for easy integration with most GIS software programs. Assisting this effort, I have converted the data in the HOLC "Area Description" sheets into convenient, readable tables (available for download [here](https://osf.io/qytj8/)). HOLC variables such as the percent Black, percent "foreign born," and average building age midpoint are fully ready to be downloaded and incorporated into statistical analyses [here](https://osf.io/28vup/). These variables can be seen in the interactive map below.
+The Digital Scholarship at the University of Richmond has made the HOLC maps and their field notes available for download as part of their [*Mapping Inequality*](https://dsl.richmond.edu/panorama/redlining/#loc=4/40.886/-105.499) project. They also make available a [shapefile and GeoJSON file](https://dsl.richmond.edu/panorama/redlining/#loc=4/40.886/-105.499&text=downloads) to allow for easy integration with most GIS software programs. Assisting this effort, I have converted the data in the HOLC "Area Description" sheets into convenient, readable tables (available for download at [Open Science Framework](https://osf.io/qytj8/)). HOLC variables such as the percent Black, percent "foreign born," and average building age midpoint are fully ready to be downloaded and incorporated into statistical analyses [here](https://osf.io/28vup/). These variables can be seen in the interactive map below. All R code used to generate these files are available through [GitHub](https://github.com/snmarkley1/HOLC_ADS/tree/main), and the background and methods are available at [*SocArXiv*](https://osf.io/preprints/socarxiv/dktah/).
 
-Zoom into a city and click on one of its HOLC neighborhoods to see its attributes. You can toggle the basemap by clicking the layer icon on the lefthand side.
+Zoom into a city and click on one of its HOLC neighborhoods to see its attributes. You can toggle the basemap by clicking the layer icon on the lefthand side. All variables used to populate these attribute tables are available [here](https://osf.io/28vup/).
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <a href="https://snmarkley1.github.io/holc_map.html" target="_blank">Map Zoom <i class="fa fa-external-link"></i></a>
