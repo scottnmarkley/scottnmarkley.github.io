@@ -6,7 +6,7 @@ title: Projects
 <p style="text-align: center">
   <a href="https://snmarkley1.github.io/Projects/HOLC/">
     <img src="/Projects/HOLC_tile.jpg" 
-         width="342" 
+         width="340" 
          height="225" 
          title="HOLC Mapping Project" 
          style="border:2px solid #555;margin:2px;float:left;" />
