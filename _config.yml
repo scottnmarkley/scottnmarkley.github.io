@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Projects.md", title: "Projects"}
   - {url: "/cv/CV_oct2021.pdf", title: "CV"}
   - {file: "/Projects/HOLC.md", title: " "}
+  - {url: "holc_map.html", title: " "}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/snmarkley1"}
