@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Projects.md", title: "Projects"}
   - {url: "/cv/CV_oct2021.pdf", title: "CV"}
   - {file: "HOLC.md", title: " "}
+  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=onwbEAoAAAAJ&hl=en&oi=ao"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/snmarkley1"}
