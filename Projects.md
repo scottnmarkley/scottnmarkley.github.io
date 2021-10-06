@@ -23,6 +23,6 @@ title: Projects
 <a href="https://snmarkley1.github.io/Projects/suburbs/">
      <img src="/Projects/suburb_tile.png" 
          title="Suburban Displacement Project" 
-         style="border:2px solid #555/>
+         style="border:2px solid #555;margin:1px;/>
 </a>
 </p>
