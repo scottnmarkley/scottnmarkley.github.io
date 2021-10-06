@@ -17,6 +17,7 @@ title: Projects
          height="230" 
          title="Historical Housing Unit Project" 
          style="border:2px solid #555;margin:1px;clear:both" />
+  </a>
 </p>
 
 </a>
