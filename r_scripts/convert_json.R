@@ -39,7 +39,7 @@ packages(tigris)
 #######################################################################
 
 ## read in apt data
-apt_pop <- read_csv("C:/Users/scott/Dropbox/atlantaStudies/atl_suburb_apt_data.csv") %>%
+apt_pop <- read_csv("tables/atl_suburb_apt_data.csv") %>%
   # fix NAs
   mutate_at(vars(wht10:other10), funs(ifelse(is.na(.), 0, .))) %>%
   # Calculate % Group
@@ -148,7 +148,7 @@ cities <- bind_rows(cities10, cities20) %>%
 
 ########################################################
 ## Mapview
-#######################################################
+########################################################
 
 ## Set mapview options
 mapviewOptions(fgb = FALSE, basemaps = "Esri.WorldImagery")
@@ -179,4 +179,16 @@ apt_map2 <- apt_map@map %>%
     )
 
 apt_map2
+
+
+########################################################
+## Save out!!
+########################################################
+
+## Save out as HTML
+mapshot(
+  apt_map2, 
+  url = paste0(getwd(), "/apt_map.html")
+)
+
 
