@@ -1,6 +1,7 @@
 ---
 title: Projects
 ---
+
 <a href="https://snmarkley1.github.io/Projects/HOLC/">
     <img src="/Projects/HOLC_tile.jpg" 
          width="320" 
