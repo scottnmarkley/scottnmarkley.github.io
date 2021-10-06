@@ -23,4 +23,4 @@ title: Projects
          height="220" 
          title="Suburban Displacement Project" 
          style="border:2px solid #555;margin:6px;float:left" />
-</a>
+
