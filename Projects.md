@@ -20,7 +20,6 @@ title: Projects
   </a>
 </p>
 
-</a>
 <a href="https://snmarkley1.github.io/Projects/HistHU/">
      <img src="/Projects/suburb_tile.jpg" 
          width="365" 
