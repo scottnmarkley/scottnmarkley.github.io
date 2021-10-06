@@ -11,8 +11,9 @@
 </iframe>
 
 
+<p style="text-align: center">
 <img src="https://raw.githubusercontent.com/ParametricPress/01-data-science-for-fair-housing/master/static/images/apts.png" 
-     width="800"
+     width="600"
      title="Apartment Demolitions in Atlanta's Northern Suburbs" />
      <figcaption>Source:<a href="https://parametric.press/issue-01/data-science-for-fair-housing/"><em> Parametric Press</em></figcaption>
-
+</p>
