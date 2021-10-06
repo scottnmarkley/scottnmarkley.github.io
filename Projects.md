@@ -3,6 +3,8 @@ title: Projects
 ---
 
 
+![]("/Projects/HOLC_tile.jpg")
+
 <p style="text-align: center">
   <a href="https://snmarkley1.github.io/Projects/HOLC/">
     <img src="/Projects/HOLC_tile.jpg" 
