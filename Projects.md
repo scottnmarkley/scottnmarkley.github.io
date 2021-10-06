@@ -19,10 +19,11 @@ title: Projects
 
 
 
+
 <p align="left" >
-<a href="https://snmarkley1.github.io/Projects/HistHU/">
+<a href="https://snmarkley1.github.io/Projects/suburbs/">
      <img src="/Projects/suburb_tile.png" 
          title="Suburban Displacement Project" 
-         style="border:2px solid #555;" />
+         style="border:2px solid #555;margin:100px" />
 </a>
 </p>
