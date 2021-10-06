@@ -17,7 +17,7 @@ title: Gentrification, Displacement, and "Social Cleansing" in the Atlanta Subur
 <a href="https://raw.githubusercontent.com/ParametricPress/01-data-science-for-fair-housing/master/static/images/apts.png">
 <img src="https://raw.githubusercontent.com/ParametricPress/01-data-science-for-fair-housing/master/static/images/apts.png" 
      width="600"
-     title="Apartment Demolitions in Atlanta's Northern Suburbs" /></a>
+     title="Populations Displacement by Apartment Demolitions" /></a>
      <figcaption>Source:<a href="https://parametric.press/issue-01/data-science-for-fair-housing/"><em> Parametric Press</em></a></figcaption>
 
  </p>
