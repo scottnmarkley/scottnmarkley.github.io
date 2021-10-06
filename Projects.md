@@ -22,8 +22,8 @@ title: Projects
 
 <a href="https://snmarkley1.github.io/Projects/HistHU/">
      <img src="/Projects/suburb_tile.jpg" 
-         width="330" 
+         width="320" 
          height="220" 
          title="Suburban Displacement Project" 
-         style="border:2px solid #555;margin:2px" />
+         style="border:2px solid #555;margin:3px" />
 </a>
