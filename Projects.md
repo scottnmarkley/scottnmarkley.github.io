@@ -21,9 +21,3 @@ title: Projects
 </p>
 
 
-<div
-  <var name="mapZoomApts" value="false" />
-  <Map map="/Projects/apts.json" zoomEnabled="mapZoomApts" geoJSO="apartmentsGeoJSON" initialViewport="{latitude: 33.8940, longitude: -84.3780, zoom: 11}" />
-</div>
-
-
