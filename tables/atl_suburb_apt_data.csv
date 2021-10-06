@@ -1,0 +1,22 @@
+apt_id,apt_name,city,status,owned,yr_dem,units,est_pop10,wht10,blk10,asn10,hisp10,other10
+1,Avistele at Andalusia,Sandy Springs,demolished,private,2016,308,855,158,153,41,478,25
+2,Versailles,Sandy Springs,demolished,private,2014,172,597,50,88,5,440,14
+3,Frazier Street,Roswell,demolished,private,2013,152,588,27,11,5,543,2
+4,Provence North,Sandy Springs,demolished,private,2015,112,333,60,59,11,198,5
+5,Hickory Lake,Smyrna,demolished,private,2011,726,1754,101,1016,NA,585,52
+6,Wynhaven,Marietta,demolished,private,2016,296,521,17,48,1,453,2
+7,Marquis Place,Marietta,demolished,private,2016,400,938,19,243,9,609,58
+8,Flagstaff Village,Marietta,demolished,private,2015,348,386,29,199,5,139,14
+9,Boston Homes,Marietta,demolished,public,2010,125,159,8,121,0,22,8
+10,Fort Hill Homes,Marietta,demolished,public,2013,120,278,9,236,3,21,9
+11,Belle Isle,Sandy Springs,demolished,public,2017,9,31,0,31,0,0,0
+12,Chastain,Sandy Springs,demolished,private,2014,264,773,64,114,7,570,18
+13,Woodlands Park,Marietta,demolished,private,2015,386,428,33,219,6,154,16
+14,Summit View,Brookhaven,demolished,private,2014,50,214,1,11,NA,198,4
+15,North Cliff Valley,Brookhaven,demolished,private,2016,57,193,20,10,NA,155,8
+16,Lenox townhomes,Brookhaven,demolished,private,2015,64,242,8,15,NA,210,9
+17,Park Villa,Brookhaven,demolished,private,2017,92,343,12,17,NA,306,8
+18,Bryton Hills,Brookhaven,demolished,private,2016,204,458,41,84,NA,286,47
+19,Lacota,Dunwoody,proposed,private,NA,266,728,28,116,NA,525,59
+20,Dunwoody Glen,Dunwoody,proposed,private,NA,512,1402,55,223,NA,1011,113
+21,Peachtree Place North,Dunwoody,proposed,private,NA,309,846,33,134,NA,610,69
