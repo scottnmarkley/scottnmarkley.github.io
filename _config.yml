@@ -19,7 +19,6 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Projects.md", title: "Projects"}
   - {url: "/cv/CV_oct2021.pdf", title: "CV"}
-  - {file: "test.idyll", title: "TEST"}
   - {file: "/Projects/HOLC.md", title: " "}
   - {file: "/Projects/HistHU.md", title: " "}
   - {url: "holc_map.html", title: " "}
