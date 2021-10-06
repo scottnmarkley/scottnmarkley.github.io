@@ -9,3 +9,6 @@
     height="450"
     src="/apt_map.html" >
 </iframe>
+
+
+https://raw.githubusercontent.com/ParametricPress/01-data-science-for-fair-housing/master/static/images/apts.png
