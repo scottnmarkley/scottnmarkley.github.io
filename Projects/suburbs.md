@@ -15,7 +15,7 @@ The map below shows the locations of apartment demolitions between 2010 and 2017
 </iframe>
 <figcaption>Data first reported in<a href="https://doi.org/10.18737/atls20181030"><em> Atlanta Studies</em></a></figcaption>
 
-The racial/ethnic breakdown of displaced residents is also shown in the chart below. All told, over 9,000 people lived in the 18 apartment complexes that were bulldozed. Of those displaced, 59 percent were Hispanic and 29 percent were Black. And this in a region where Hispanic and Black residents each comprised less than 20 percent of the total population at the time of demolition.
+The racial/ethnic breakdown of displaced residents is also shown in the chart below. Over 9,000 people lived in the 18 apartment complexes that were bulldozed. Of those displaced, 59 percent were Hispanic and 29 percent were Black in a region where Hispanic and Black residents each comprised less than 20 percent of the total population at the time of demolition.
 
 <p style="text-align: center">
 <a href="https://raw.githubusercontent.com/ParametricPress/01-data-science-for-fair-housing/master/static/images/apts.png">
