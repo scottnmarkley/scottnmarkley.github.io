@@ -22,3 +22,6 @@ Zoom into a city and click on one of its HOLC neighborhoods to see its attribute
     height="450"
     src="/holc_map.html" >
 </iframe>
+
+Using the data provided in the map, I graphed the HOLC grading breakdown by variable and region. (a) shows the average building age midpoint; (b) shows the Black population percentage; and (c) shows the "foreign born" population percentage. Despite some noteworthy regional variation, all variables tend to increase as the neighborhood grade goes from A to D.
+![](/Projects/holc_regions.png)
