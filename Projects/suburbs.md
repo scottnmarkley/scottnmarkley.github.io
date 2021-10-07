@@ -36,7 +36,7 @@ More on suburban Atlanta's gentrification and displacement initiatives can be fo
 
 If you would like free access to any of this material or if you have any other questions, please do not hesitate to reach out to me at **scott.markley@uga.edu**.
 
-Many local organizations are fighting displacement in the region. Here are a few doing this important work:
+Many local organizations are continuing their fight against displacement and for affordable housing in the region. Here are a few doing this important work:
 - [Housing Justice League](https://www.housingjusticeleague.org/)
 - [Los Vecinos de Buford Highway](https://vecinosbh.org/tomaraccion)
 - [Sandy Springs Together](https://sandyspringstogether.org/)
