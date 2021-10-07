@@ -35,4 +35,4 @@ We might also wonder about how HOLC appraisers issued neighborhood grades based 
 <p style="text-align: center">
   <img src="/Projects/HOLC_group.png" width="500" title="HOLC Grade by Group"/>
 </p>
-![](/Projects/hoyt.png)
+<img src="/Projects/hoyt.png" />
