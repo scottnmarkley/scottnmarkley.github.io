@@ -12,8 +12,12 @@ The map below shows the locations of apartment demolitions between 2010 and 2017
     width="800"
     height="450"
     src="/apt_map.html" >
+ <figcaption>Data first reported in<a href="https://doi.org/10.18737/atls20181030"><em> Atlanta Studies</em></a></figcaption>
 </iframe>
+
+
 Source: Data first reported in [*Atlanta Studies*](https://doi.org/10.18737/atls20181030).
+
 
 
 <p style="text-align: center">
