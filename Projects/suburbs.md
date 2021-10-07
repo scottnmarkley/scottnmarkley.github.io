@@ -26,6 +26,7 @@ The racial/ethnic breakdown of displaced residents is also shown in the chart be
      <figcaption>Source:<a href="https://parametric.press/issue-01/data-science-for-fair-housing/"><em> Parametric Press</em></a></figcaption>
  </p>
 
+## Read More
 More on suburban Atlanta's gentrification and displacement initiatives can be found here:
 
 - Markley, S. & M. Sharma. (2016). [Gentrification in the revanchist suburb: the politics of removal in Roswell, Georgia.](https://www.jstor.org/stable/26233772) *Southeastern Geographer* 56(1): 384-408.
@@ -36,8 +37,7 @@ More on suburban Atlanta's gentrification and displacement initiatives can be fo
 
 If you would like free access to any of this material or if you have any other questions, please do not hesitate to reach out to me at **scott.markley@uga.edu**.
 
-<b></b>
-
+## Local Organizations
 Many local organizations are fighting against displacement and for affordable housing in the region. Here are a few doing this important work:
 
 **Atlanta Area**
