@@ -35,7 +35,7 @@ More on suburban Atlanta's gentrification and displacement initiatives can be fo
 - Markley, S. and C. Allums. (2020). [Postfascist (sub)urbanism: ‘social cleansing’ in the age of Trump](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429242670-9/postfascist-sub-urbanism-scott-markley-coleman-allums), in B. Warf (editor), The Political Landscapes of Donald Trump. New York: Routledge.
 
 If you would like free access to any of this material or if you have any other questions, please do not hesitate to reach out to me at **scott.markley@uga.edu**.
-
+<b></b>
 Many local organizations are fighting against displacement and for affordable housing in the region. Here are a few doing this important work:
 - [Housing Justice League](https://www.housingjusticeleague.org/)
 - [Los Vecinos de Buford Highway](https://vecinosbh.org/tomaraccion)
