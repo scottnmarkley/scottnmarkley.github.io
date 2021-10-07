@@ -17,10 +17,6 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: Github, icon: github, url: "https://github.com/snmarkley1"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/snmarkley"}
-  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=onwbEAoAAAAJ&hl=en&oi=ao"}
-  - {title: Mail, icon: envelope, url: "mailto:scott.markley@uga.edu"}
   - {file: "/Projects/HOLC.md", title: " "}
   - {file: "/Projects/HistHU.md", title: " "}
   - {file: "/Projects/suburbs.md", title: " "}
