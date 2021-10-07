@@ -51,4 +51,4 @@ It is worth noting that these breakdowns include any "Area Description" sheets w
   <figcaption>Source: <a href="https://osf.io/preprints/socarxiv/dktah/"><em>SocArXiv</em></a></figcaption>
 </p>
 
-
+Again we see that higher Black population shares in a neighborhood translated into lower HOLC grades. This is not surprising. The leading real estate appraisal theorists of the day taught that Black presence was detrimental to an area's property values. This conviction was largely predicated on the belief that once a neighborhood transitioned from white to Black, it would never transition back because white people would be viscerally opposed to occupying a former Black living space.
