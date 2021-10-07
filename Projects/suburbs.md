@@ -23,7 +23,6 @@ The racial/ethnic breakdown of displaced residents is also shown in the chart be
      width="600"
      title="Populations Displacement by Apartment Demolitions" /></a>
      <figcaption>Source:<a href="https://parametric.press/issue-01/data-science-for-fair-housing/"><em> Parametric Press</em></a></figcaption>
-
  </p>
 
 
