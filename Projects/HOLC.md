@@ -38,7 +38,7 @@ We might also wonder about how HOLC appraisers issued neighborhood grades based 
 
 <p style="text-align: center">
     <img src="/Projects/hoyt.png" width="600" title="Hoyt's ranking"/>
-    <figcaption>Source: Hoyt (1933: 316)</figcaption>
+    <figcaption>Source: <a href="https://chipublib.bibliocommons.com/v2/record/S126C844620">Hoyt (1933: 316)</a></figcaption>
 </p>
 
 It is worth noting that these breakdowns include any "Area Description" sheets where the population group in question was mentioned. It does not take the size of that group into account. We can use the data in the [tables](https://osf.io/28vup/) to get a better picture of this. 
