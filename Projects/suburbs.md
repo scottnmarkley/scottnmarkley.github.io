@@ -30,4 +30,4 @@ Source: Data first reported in [*Atlanta Studies*](https://doi.org/10.18737/atls
  </p>
 
 
-In my earliest work as part of this overall project, I dug into that first case I noticed: the Frazier Street Apartments in Roswell. This work appeared in *Southeastern Geographer*[https://www.jstor.org/stable/26233815].
+In my earliest work as part of this overall project, I dug into that first case I noticed: the Frazier Street Apartments in Roswell. This work appeared in [*Southeastern Geographer*](https://www.jstor.org/stable/26233815).
