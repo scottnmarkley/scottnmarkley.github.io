@@ -43,6 +43,7 @@ Many local organizations are fighting against displacement and for affordable ho
 **Atlanta Area**
 - [Housing Justice League](https://www.housingjusticeleague.org/)
 - [Los Vecinos de Buford Highway](https://vecinosbh.org/tomaraccion)
+- [Atlanta DSA](https://atldsa.org/)
 - [Sandy Springs Together](https://sandyspringstogether.org/)
 - [Roswell Renters](https://roswellrenters.com/)
 
