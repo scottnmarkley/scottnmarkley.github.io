@@ -27,14 +27,13 @@ Using the data provided in the map, I graphed the HOLC grading breakdown by vari
 
 <p style="text-align: center">
   <img src="/Projects/holc_regions.png" width="900" title="HOLC Variables by Region"/>
-  <figcaption>Source: <a href="https://osf.io/preprints/socarxiv/dktah/"><em>SocArXiv</em></a></figcaption>
+  <figcaption>All bar graphs on this page are from <a href="https://osf.io/preprints/socarxiv/dktah/"><em>SocArXiv</em></a></figcaption>
 </p>
 
 We might also wonder about how HOLC appraisers issued neighborhood grades based on the presence of different "foreign born" groups. That is shown in the graph here. Notably, the relationship between grades and "foreign born" groups tracks closely to how the famous land economist Homer Hoyt ranked each group's impact on land values in his 1933 *One Hundred Years of Land Values in Chicago*.
 
 <p style="text-align: center">
   <img src="/Projects/HOLC_group.png" width="700" title="HOLC Grade by Group"/>
-  <figcaption>Source: <a href="https://osf.io/preprints/socarxiv/dktah/"><em>SocArXiv</em></a></figcaption>
 </p>
 
 <p style="text-align: center">
@@ -46,7 +45,6 @@ It is worth noting that these breakdowns include any "Area Description" sheets w
 
 <p style="text-align: center">
   <img src="/Projects/HOLC_pblk.png" width="700" title="HOLC Grade by % Black"/>
-  <figcaption>Source: <a href="https://osf.io/preprints/socarxiv/dktah/"><em>SocArXiv</em></a></figcaption>
 </p>
 
 Again we see that higher Black population shares in a neighborhood translated into lower HOLC grades. This is not surprising. The leading real estate appraisal theorists of the day taught that Black presence was detrimental to an area's property values. This conviction was largely predicated on the belief that once a neighborhood transitioned from white to Black, it would never transition back because white people would be viscerally opposed to occupying a former Black living space. Although there is some debate about how widely the HOLC maps circulated, it is important to keep in mind that regardless of how and if they were used, the maps and their description sheets reflect the governing ideology of an institution that would fundamentally transform the US sub/urban landscape. They are, in that regard, an indispensable window into the twentieth-century real-estate mind.
