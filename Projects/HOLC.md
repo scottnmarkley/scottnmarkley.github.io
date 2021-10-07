@@ -39,6 +39,6 @@ We might also wonder about how HOLC appraisers issued neighborhood grades based 
 </p>
 
 <p style="text-align: center">
-    <img src="/Projects/hoyt.png" title="Hoyt's ranking"/>
+    <img src="/Projects/hoyt.png" width="500" title="Hoyt's ranking"/>
     <figcaption>Source: Hoyt (1933: 316)</figcaption>
 </p>
