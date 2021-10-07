@@ -45,3 +45,10 @@ We might also wonder about how HOLC appraisers issued neighborhood grades based 
 </p>
 
 It is worth noting that these breakdowns include any "Area Description" sheets where the population group in question was mentioned. It does not take the size of that group into account. We can use the data in the [tables](https://osf.io/28vup/) to get a better picture of this. 
+
+<p style="text-align: center">
+  <img src="/Projects/HOLC_pblk.png" width="700" title="HOLC Grade by % Black"/>
+  <figcaption>Source: <a href="https://osf.io/preprints/socarxiv/dktah/"><em>SocArXiv</em></a></figcaption>
+</p>
+
+
