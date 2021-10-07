@@ -29,4 +29,4 @@ Using the data provided in the map, I graphed the HOLC grading breakdown by vari
 
 We might also wonder about how HOLC neighborhood appraisers issued their grades based on the presence of different "foreign born" groups. That is shown in the graph here.
 
-![](/Projects/pct_group.tif)
+![](/Projects/pct_group.png)
