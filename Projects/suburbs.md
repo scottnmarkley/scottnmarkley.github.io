@@ -26,7 +26,7 @@ The racial/ethnic breakdown of displaced residents is also shown in the chart be
      <figcaption>Source:<a href="https://parametric.press/issue-01/data-science-for-fair-housing/"><em> Parametric Press</em></a></figcaption>
  </p>
 
-More about this project can be found here:
+More on suburban Atlanta's gentrification and displacement initiatives can be found here:
 
 - Markley, S. & M. Sharma. (2016). [Gentrification in the revanchist suburb: the politics of removal in Roswell, Georgia.](https://www.jstor.org/stable/26233772) *Southeastern Geographer* 56(1): 384-408.
 - Markley, S. (2018). [Suburban gentrification? Examining the geographies of New Urbanism in Atlanta’s inner suburbs.](https://doi.org/10.1080/02723638.2017.1381534) *Urban Geography* 39(4): 606–30.
