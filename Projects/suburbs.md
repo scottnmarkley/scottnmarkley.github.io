@@ -27,6 +27,7 @@ The racial/ethnic breakdown of displaced residents is also shown in the chart be
 
 For more information on this project, please see these published works:
 
-- On Frazier Street Apartments in Roswelltments in Roswell: [*Southeastern Geographer*](https://www.jstor.org/stable/26233815)
+- [Markley, S. & M. Sharma. 2016. Gentrification in the Revanchist Suburb: The Politics of Removal in Roswell, Georgia. *Southeastern Geographer*, 56(1): 384-408](https://www.jstor.org/stable/26233815)
+- On 
 
 
