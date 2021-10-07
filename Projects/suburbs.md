@@ -37,7 +37,7 @@ More on suburban Atlanta's gentrification and displacement initiatives can be fo
 
 If you would like free access to any of this material or if you have any other questions, please do not hesitate to reach out to me at **scott.markley@uga.edu**.
 
-## Local Organizations
+## The Fight Against Displacement
 Many local organizations are fighting against displacement and for affordable housing in the region. Here are a few doing this important work:
 
 **Atlanta Area**
