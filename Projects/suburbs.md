@@ -25,7 +25,7 @@ The racial/ethnic breakdown of displaced residents is also shown in the chart be
      <figcaption>Source:<a href="https://parametric.press/issue-01/data-science-for-fair-housing/"><em> Parametric Press</em></a></figcaption>
  </p>
 
-For more information on this project, please see these published works:
+For more information on this project, please check out these published works:
 
 - Markley, S. & M. Sharma. (2016). [Gentrification in the revanchist suburb: the politics of removal in Roswell, Georgia.](https://www.jstor.org/stable/26233772) *Southeastern Geographer* 56(1): 384-408.
 - Markley, S. (2018). [Suburban gentrification? Examining the geographies of New Urbanism in Atlanta’s inner suburbs.](https://doi.org/10.1080/02723638.2017.1381534) *Urban Geography* 39(4): 606–30.
@@ -33,4 +33,4 @@ For more information on this project, please see these published works:
 - Markley, S. (2018). [From exclusion to expulsion: demolition, displacement, and race in Atlanta’s northern suburbs](https://doi.org/10.18737/atls20181030). *Atlanta Studies* (October 30, 2018).
 - Markley, S. and C. Allums. (2020). [Postfascist (sub)urbanism: ‘social cleansing’ in the age of Trump](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429242670-9/postfascist-sub-urbanism-scott-markley-coleman-allums), in B. Warf (editor), The Political Landscapes of Donald Trump. New York: Routledge.
 
-For assistance accessing any of this material, please do not hesitate to reach out to me at **scott.markley@uga.edu**.
+If you would like free access to any of this material or if you have any other questions, please do not hesitate to reach out to me at **scott.markley@uga.edu**.
