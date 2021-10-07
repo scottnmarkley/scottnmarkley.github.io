@@ -16,9 +16,6 @@ The map below shows the locations of apartment demolitions between 2010 and 2017
 <figcaption>Data first reported in<a href="https://doi.org/10.18737/atls20181030"><em> Atlanta Studies</em></a></figcaption>
 
 
-Source: Data first reported in [*Atlanta Studies*](https://doi.org/10.18737/atls20181030).
-
-
 
 <p style="text-align: center">
 <a href="https://raw.githubusercontent.com/ParametricPress/01-data-science-for-fair-housing/master/static/images/apts.png">
@@ -31,3 +28,5 @@ Source: Data first reported in [*Atlanta Studies*](https://doi.org/10.18737/atls
 
 
 In my earliest work as part of this overall project, I dug into that first case I noticed: the Frazier Street Apartments in Roswell. This work appeared in [*Southeastern Geographer*](https://www.jstor.org/stable/26233815).
+
+Source: Data first reported in [*Atlanta Studies*](https://doi.org/10.18737/atls20181030).
