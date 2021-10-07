@@ -36,6 +36,7 @@ We might also wonder about how HOLC appraisers issued neighborhood grades based 
 
 <p style="text-align: center">
   <img src="/Projects/HOLC_group.png" width="700" title="HOLC Grade by Group"/>
+  <figcaption>Source: <a href="https://osf.io/preprints/socarxiv/dktah/"><em>SocArXiv</em></a></figcaption>
 </p>
 
 <p style="text-align: center">
