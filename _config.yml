@@ -17,13 +17,14 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Projects.md", title: "Projects"}
-  - {url: "/cv/CV_oct2021.pdf", title: "CV"}
   - {file: "/Projects/HOLC.md", title: " "}
   - {file: "/Projects/HistHU.md", title: " "}
   - {file: "/Projects/suburbs.md", title: " "}
   - {url: "holc_map.html", title: " "}
   - {url: "apt_map.html", title: " "}
+  - {file: "Projects.md", title: "Projects"}
+  - {url: "/cv/CV_oct2021.pdf", title: "CV"}
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/snmarkley1"}
