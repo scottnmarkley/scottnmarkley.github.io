@@ -2,7 +2,7 @@
 title: Gentrification, Displacement, and "Social Cleansing" in the Atlanta Suburbs
 ---
 
-
+I grew up in the Atlanta suburbs. Some time around 2014, I noticed that an apartment complex that I had regularly passed since I was a child was being torn down. I dug into the matter more and discovered that this was but one instance of a region-wide phenomenon. City councils across Atlanta's northern suburbs were approving plans to tear down older residences to make way for upscale "in-town" communities. These developments often followed New Urbanist design principles, and local officials championed their potential to reverse the tides of suburban disinvestment hastened by the Great Recession by attracting affluent young professionals and empty nesters. Central to these efforts was the destruction of thousands of relatively affordable apartment units that housed a large portion of the region's Hispanic population. In the prescient words of Neil Smith, these projects amounted to a "social cleansing strategy."
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <a href="https://snmarkley1.github.io/apt_map.html" target="_blank">Map Zoom <i class="fa fa-external-link"></i></a>
