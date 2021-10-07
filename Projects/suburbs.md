@@ -25,5 +25,8 @@ The racial/ethnic breakdown of displaced residents is also shown in the chart be
      <figcaption>Source:<a href="https://parametric.press/issue-01/data-science-for-fair-housing/"><em> Parametric Press</em></a></figcaption>
  </p>
 
+For more information on this project, please see these published works:
 
-In my earliest work as part of this overall project, I dug into that first case I noticed: the Frazier Street Apartments in Roswell. This work appeared in [*Southeastern Geographer*](https://www.jstor.org/stable/26233815).
+- On Frazier Street Apartments in Roswelltments in Roswell: [*Southeastern Geographer*](https://www.jstor.org/stable/26233815)
+
+
