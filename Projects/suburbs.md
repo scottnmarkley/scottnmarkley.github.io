@@ -49,5 +49,5 @@ Many local organizations are fighting against displacement and for affordable ho
 
 **Athens Area**
 - [Athens Immigrant Rights Coalition](https://www.athensimmigrantrights.org/)
-    - [Dignidad Inmigrante de Athens](https://dignidadinmigrante.wordpress.com/who-is-dia-immigrant-dignity-in-athens/)
+- [Dignidad Inmigrante de Athens](https://dignidadinmigrante.wordpress.com/who-is-dia-immigrant-dignity-in-athens/)
 - [Athens for Everyone](https://athensforeveryone.com/what-we-believe/)
