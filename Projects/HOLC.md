@@ -30,7 +30,7 @@ Using the data provided in the map, I graphed the HOLC grading breakdown by vari
   <figcaption>(All bar graphs on this page are from <a href="https://osf.io/preprints/socarxiv/dktah/"><em>SocArXiv</em></a>)</figcaption>
 </p>
 
-We might also wonder about how HOLC appraisers issued neighborhood grades based on the presence of different "foreign born" groups. That is shown in the graph here. Notably, the relationship between grades and "foreign born" groups tracks closely to how the famous land economist Homer Hoyt ranked each group's impact on land values in his 1933 *One Hundred Years of Land Values in Chicago*.
+We might also wonder about how HOLC appraisers issued neighborhood grades based on the presence of different "foreign born" groups. That is shown in the graph here. Notably, the relationship between grades and "foreign born" groups closely tracks to the racist ranking system published by the influential land-use economist Homer Hoyt in his 1933 *One Hundred Years of Land Values in Chicago*.
 
 <p style="text-align: center">
   <img src="/Projects/HOLC_group.png" width="700" title="HOLC Grade by Group"/>
