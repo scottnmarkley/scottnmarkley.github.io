@@ -16,7 +16,7 @@ title: Projects
 </a>
 </p>
 
-<br></br>
+<br>
 
 <p align="left" >
 <a href="https://snmarkley1.github.io/Projects/suburbs/">
