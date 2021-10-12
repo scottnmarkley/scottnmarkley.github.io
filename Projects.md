@@ -12,7 +12,7 @@ title: Projects
 <a href="https://snmarkley1.github.io/Projects/HistHU/">
     <img src="/Projects/HHUUD_tile.png" 
          title="Historical Housing Unit Project" 
-         style="border:2px solid #555;margin:1px;clear:both" />
+         style="border:2px solid #555;margin:0px;clear:both" />
   
 </a>
 </p>
