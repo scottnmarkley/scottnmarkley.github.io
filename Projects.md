@@ -8,6 +8,7 @@ title: Projects
          title="HOLC Mapping Project" 
          style="border:2px solid #555;margin:1px;float:left;" />
 </a>
+    
 <a href="https://snmarkley1.github.io/Projects/HistHU/">
     <img src="/Projects/HHUUD_tile.png" 
          title="Historical Housing Unit Project" 
@@ -15,8 +16,6 @@ title: Projects
   
 </a>
 </p>
-
-
 
 
 <p align="left" >
