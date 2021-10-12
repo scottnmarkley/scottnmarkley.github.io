@@ -6,7 +6,7 @@ title: Projects
 <a href="https://snmarkley1.github.io/Projects/HOLC/">
     <img src="/Projects/HOLC_tile.png" 
          title="HOLC Mapping Project" 
-         style="border:2px solid #555;margin:1px;float:left;" />
+         style="border:2px solid #555;margin:4px;float:left;" />
 </a>
     
 <a href="https://snmarkley1.github.io/Projects/HistHU/">
@@ -22,6 +22,6 @@ title: Projects
 <a href="https://snmarkley1.github.io/Projects/suburbs/">
      <img src="/Projects/suburb_tile.png" 
          title="Suburban Displacement Project" 
-         style="border:2px solid #555;margin:1px;float:left" />
+         style="border:2px solid #555;margin:4px;float:left" />
 </a>
 </p>
