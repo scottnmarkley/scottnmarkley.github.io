@@ -16,6 +16,8 @@ title: Projects
 </a>
 </p>
 
+<br></br>
+
 <p align="left" >
 <a href="https://snmarkley1.github.io/Projects/suburbs/">
      <img src="/Projects/suburb_tile.png" 
