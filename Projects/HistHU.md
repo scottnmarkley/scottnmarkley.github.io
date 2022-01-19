@@ -11,7 +11,6 @@ The gif below uses our dataset to depict suburbanization through time in the Atl
   <figcaption>Urbanization in Metro Atlanta by 2010 Census Tracts, 1940-2019</figcaption>
 </p>
 
-
 <svg id="sankey_svg" height="600" width="600" xmlns="http://www.w3.org/2000/svg" version="1.1"><title>Your Diagram Title</title><!-- Generated with SankeyMATIC on Wed Jan 19 2022 14:39:52 GMT-0500 (Eastern Standard Time)--><g><rect width="100%" height="100%" fill="rgb(255, 255, 255)"></rect><g transform="translate(12,12)"><g><path class="link" d="M8,378.73944302155314C146,378.73944302155314 146,389.318074646731 284,389.318074646731" style="fill: none; stroke-width: 250.397px; stroke: rgb(27, 158, 119); stroke-opacity: 0.65;"><title>Tract-years &#8594; Not tracted:
 194,055</title></path><path class="link" d="M8,147.63948300004745C146,147.63948300004745 146,140.21811462522533 284,140.21811462522533" style="fill: none; stroke-width: 211.803px; stroke: rgb(217, 95, 2); stroke-opacity: 0.65;"><title>Tract-years &#8594; Tracts present:
 164,145</title></path><path class="link" d="M292,361.14736371881634C430,361.14736371881634 430,362.83070899791824 568,362.83070899791824" style="fill: none; stroke-width: 194.056px; stroke: rgb(27, 158, 119); stroke-opacity: 0.65;"><title>Not tracted &#8594; CMR:
