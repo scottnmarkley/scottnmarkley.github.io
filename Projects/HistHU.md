@@ -6,6 +6,9 @@ In this project, my colleagues (Steve Holloway, Taylor Hafley, and Mathew Hauer)
 
 The gif below uses our dataset to depict suburbanization through time in the Atlanta region. Once a tract surpasses 200 housing units per dasymetrically refined square mile&mdash;*i.e.*, the tract surface area minus water, parks, airports, cemeteries, and railyards&mdash;we consider it "urban."
 
+
+<div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://lucid.app/documents/embeddedchart/62b1882d-82de-4c3b-9969-15898f39d1d9" id="-b1L.uO.ScG2"></iframe></div>
+
 <p style="text-align: center">
   <img src="/Projects/atl.gif" width="600" title="Urbanization in Metro Atlanta, 1940-2019"/>
   <figcaption>Urbanization in Metro Atlanta by 2010 Census Tracts, 1940-2019</figcaption>
