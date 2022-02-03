@@ -26,7 +26,7 @@ Zoom into a city and click on one of its HOLC neighborhoods to see its attribute
 Using the data provided in the map, I graphed the HOLC grading breakdown by variable and region. (a) shows the average building age midpoint; (b) shows the Black population percentage; and (c) shows the "foreign born" population percentage. Despite some noteworthy regional variation, all variables tend to increase as the neighborhood grade goes from A to D. This is expected, as these factors all played an important role in how lenders, real estate brokers, landlords, appraisers, and others dealing in real estate perceived an area's potential returns on property investment. Specifically, the visible presence of Black residents in a neighborhood was widely assumed to be detrimental to property values. Thus, as (b) suggests, the presence of nearly any number of Black residents was enough for a place to receive a D grade.
 
 <p style="text-align: center">
-  <img src="/Projects/holc_regions.png" width="700" title="HOLC Variables by Region"/>
+  <img src="/Projects/fourplots.tif" width="700" title="HOLC Variables by Region"/>
   <figcaption>(All bar graphs on this page are from <a href="https://osf.io/preprints/socarxiv/dktah/"><em>SocArXiv</em></a>)</figcaption>
 </p>
 
