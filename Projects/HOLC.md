@@ -33,7 +33,7 @@ Using the data provided in the map, I graphed the HOLC grading breakdown by vari
 We might also wonder about how HOLC appraisers issued neighborhood grades based on the presence of different "foreign born" groups. That is shown in the graph here. Notably, the relationship between grades and "foreign born" groups closely tracks the racist ranking system published by the influential land-use economist Homer Hoyt in his 1933 *One Hundred Years of Land Values in Chicago*. Here, Hoyt asserted that land values in an area went up or down depending on which of these populations lived nearby. Hoyt's book was exceptionally well-regarded within the industry, and he would later serve as the head economist of the Federal Housing Administration (FHA). There, he was instrumental in the agency's adoption of its own redlining maps and policies that were used to deny mortgages to non-white applicants.
 
 <p style="text-align: center">
-  <img src="/Projects/HOLC_group.png" width="700" title="HOLC Grade by Group"/>
+  <img src="/Projects/fourplots.png" width="800" title="HOLC Grade by Group"/>
 </p>
 
 <p style="text-align: center">
