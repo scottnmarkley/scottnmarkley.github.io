@@ -13,4 +13,7 @@ The gif below uses HHUUD10 to depict suburbanization through time in the Atlanta
 </p>
 
 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<a href="https://arcg.is/1mu4HG" target="_blank">Map Zoom <i class="fa fa-external-link"></i></a>
 <style>.embed-container {position: relative; padding-bottom: 60%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="700" height="420" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Housing Unit Change by Tract, 1940-2019" src="//usg.maps.arcgis.com/apps/Embed/index.html?webmap=02695f619dfe4cafa0defcf579896477&extent=-151.3283,17.0228,-47.7053,57.2598&zoom=true&previewImage=false&scale=true&disable_scroll=false&theme=light"></iframe></div>
