@@ -17,6 +17,6 @@ The gif below uses HHUUD10 to depict suburbanization through time in the Atlanta
 HHUUD10 data can also be used to track historical housing unit changes at the tract level. The map below shows estimated housing unit changes from 1940 to 2019.
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<a href="https://usg.maps.arcgis.com/apps/instant/minimalist/index.html?appid=d2e0f6f161c547b9b82696e6d36c7207">See Map on ArcGIS Online<i class="fa fa-external-link"></i></a>
+<a href="https://usg.maps.arcgis.com/apps/instant/minimalist/index.html?appid=d2e0f6f161c547b9b82696e6d36c7207" target="_blank">See Map on ArcGIS Online <i class="fa fa-external-link"></i></a>
 
 <style>.embed-container {position: relative; padding-bottom: 53%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="850" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Tract-level Housing Unit Changes, 1940-2019" src="//usg.maps.arcgis.com/apps/Embed/index.html?webmap=998602f24b114562a7cef6408eeabdde&extent=-84.6318,33.6105,-84.1247,33.8438&zoom=true&previewImage=false&scale=true&legend=true&disable_scroll=false&theme=light"></iframe></div>
