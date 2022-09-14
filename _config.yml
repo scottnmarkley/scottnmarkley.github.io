@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "holc_map.html", title: " "}
   - {url: "apt_map.html", title: " "}
   - {file: "Projects.md", title: "Projects"}
-  - {url: "https://snmarkley1.github.io/cv/CV_2022_03.pdf", title: "CV"}
+  - {url: "https://snmarkley1.github.io/cv/CV_ScottMarkley_202209.pdf", title: "CV"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
