@@ -3,7 +3,7 @@ layout: page
 title: "About"
 ---
 
-I am a PhD candidate in the [Department of Geography](https://geography.uga.edu/) at the University of Georgia. My research focuses on questions at the intersection of sub/urban geography and racial capitalism. This frequently involves multi-method investigations into housing segregation and the racially uneven geographies of sub/urban development. For a recent example of this work, see [here](https://doi.org/10.1111/1468-2427.12873). I also like to produce GIS data products that assist researchers and organizations working on similar questions.
+I am a PhD candidate in the [Department of Geography](https://geography.uga.edu/) at the University of Georgia. My research focuses on questions at the intersection of sub/urban geography, racial capitalism, and Geographic Information Science (GIS). This frequently involves multi-method investigations into housing segregation and the racially uneven geographies of sub/urban development. For a recent example of this work, see [here](https://doi.org/10.1111/1468-2427.12873). I also like to produce GIS data products that assist researchers and organizations working on similar questions.
 
 My current project looks into the federal, New Deal-era ["redlining" mapping program](https://dsl.richmond.edu/panorama/redlining/#loc=4/40.886/-105.499&text=intro) operated by the Home Owners' Loan Corporation (HOLC). You can read about this work [here](https://snmarkley1.github.io/Projects/HOLC/). As part of this effort, I have tabulated the variables in the HOLC maps' "Area Description" sheets and made the tables, GIS files, code, and write-up available for download at [Open Science Framework](https://osf.io/qytj8/). Check out the interactive map below!
 
