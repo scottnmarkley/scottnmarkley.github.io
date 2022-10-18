@@ -7,7 +7,7 @@ I am a PhD candidate in the Department of Geography at the University of Georgia
 
 My current research project looks into the federal, New Deal-era ["redlining" mapping program](https://dsl.richmond.edu/panorama/redlining/#loc=4/40.886/-105.499&text=intro) operated by the Home Owners' Loan Corporation (HOLC). As part of this effort, I have tabulated the variables in the HOLC maps' "Area Description" sheets and made the tables, GIS files, code, and write-up available for download at [Open Science Framework](https://osf.io/qytj8/) and [*Environment and Planning B*](https://doi.org/10.1177/23998083221133112). Check out the interactive map below!
 
-Zoom into a city and click on one of its HOLC neighborhoods to see its attributes. You can toggle the basemap by clicking the layer icon on the lefthand side. All variables used to populate these attribute tables are available [here](https://osf.io/28vup/).
+Zoom into a city and click on one of its HOLC neighborhoods to see its attributes. You can toggle the basemap by clicking the layer icon on the lefthand side. All variables used to populate these attribute tables are available [here](https://osf.io/qytj8/).
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <a href="https://snmarkley1.github.io/holc_map.html" target="_blank">Map Zoom <i class="fa fa-external-link"></i></a>
