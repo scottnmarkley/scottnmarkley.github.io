@@ -23,14 +23,14 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "holc_map.html", title: " "}
   - {url: "apt_map.html", title: " "}
   - {file: "Projects.md", title: "Projects"}
-  - {url: "https://snmarkley1.github.io/cv/CV_ScottMarkley_202210.pdf", title: "CV"}
+  - {url: "https://snmarkley1.github.io/cv/CV_ScottMarkley_202301.pdf", title: "CV"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/snmarkley1"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/snmarkley"}
   - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=onwbEAoAAAAJ&hl=en&oi=ao"}
-  - {title: Mail, icon: envelope, url: "mailto:scott.markley@uga.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:scott.markley@cornell.edu"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
