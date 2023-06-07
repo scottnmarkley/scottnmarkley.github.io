@@ -19,4 +19,4 @@ Zoom into a city and click on one of its HOLC neighborhoods to see its attribute
     src="/holc_map.html" >
 </iframe>
 
-Please feel free to contact me if you have any questions about this work. I can best be reached by email: **scott.markley@uga.edu**
+Please feel free to contact me if you have any questions about this work. I can best be reached by email: **scott.markley@cornell.edu**
