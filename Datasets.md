@@ -6,6 +6,7 @@ This page provides a centralized place to download to some of the datasets I hav
 
 
 ## [HHUUD10](https://osf.io/fzv5e/)
+### [HHUUD10 on Esri's Living Atlas](https://livingatlas.arcgis.com/en/browse/?q=hhuud10#q=hhuud10&d=2)
 
 ## [THOLCADS](https://osf.io/qytj8/)
 
