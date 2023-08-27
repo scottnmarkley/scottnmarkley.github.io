@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "apt_map.html", title: " "}
   - {file: "Projects.md", title: "Projects"}
   - {url: "https://snmarkley1.github.io/cv/CV_ScottMarkley_202307.pdf", title: "CV"}
-  - {file: "/Datasets.md", title: "Datasets"}
+  - {file: "Datasets.md", title: "Datasets"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
