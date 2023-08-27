@@ -2,7 +2,7 @@
 title: Datasets
 ---
 
-This page provides a centralized place to download some of the  datasets I have helped create, including the Historical Housing Unit and Urbanization Database v2010 (HHUUD10), Tabulated HOLC Area Description Sheet (THOLCADS) Data, and Tracts by Census Place Using Centroid.
+This page provides a centralized place to download some of the  datasets I have helped create, including the Historical Housing Unit and Urbanization Database v2010 (HHUUD10), Tabulated HOLC Area Description Sheet (THOLCADS) Data, and Tracts by Census Place Using Centroids.
 
 
 ### [HHUUD10 on Esri's Living Atlas](https://livingatlas.arcgis.com/en/browse/?q=hhuud10#q=hhuud10&d=2) | [HHUUD10 on OSF](https://osf.io/fzv5e/)
