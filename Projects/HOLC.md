@@ -33,6 +33,8 @@ Using the data provided in the map, we can see the HOLC grading breakdown by var
   <img src="/Projects/fourplots.png" width="800" title="HOLC Variables by Region"/>
 </p>
 
+Additionally, we can see how some of the descriptive data breaks down by HOLC Grade. The figure below shows how Home Repair Status, Home Mortgage Availability, and Resident Occupation Class were districted by HOLC grade. Again, these distributions conform to expectations.
+
 <p style="text-align: center">
   <img src="/HOLC/qual_charts.png" width="800" title="Home Repair Status, Mortgage Availability, and Occupation Class by HOLC Grade"/>
 </p>
@@ -48,10 +50,4 @@ We might also wonder about how HOLC appraisers issued neighborhood grades based 
     <figcaption>Source: <a href="https://chipublib.bibliocommons.com/v2/record/S126C844620">Hoyt (1933: 316)</a></figcaption>
 </p>
 
-It is worth noting that these breakdowns include any "Area Description" sheets where the population group in question was mentioned. It does not take the size of that group into account. We can use the data in the [tables](https://osf.io/28vup/) to get a better picture of this. 
-
-<p style="text-align: center">
-  <img src="/Projects/HOLC_pblk.png" width="700" title="HOLC Grade by % Black"/>
-</p>
-
-Again we see that higher Black population shares in a neighborhood translated into lower HOLC grades. This is not surprising. The leading real estate appraisal theorists of the day&mdash;including Homer Hoyt&mdash;taught that Black presence was detrimental to an area's property values. This conviction was largely predicated on the belief that once a neighborhood transitioned from white to Black, it would never transition back because white people would be viscerally opposed to occupying a former Black living space. Although there is some debate about how widely the HOLC maps circulated, it is important to keep in mind that regardless of how and if they were used, the maps and their description sheets reflect the governing ideology of an industry that would fundamentally transform the US sub/urban landscape. They are, in that regard, an indispensable window into the twentieth-century real-estate mind.
+It is worth noting that these breakdowns include any "Area Description" sheets where the population group in question was mentioned. It does not take the size of that group into account. We can use the data in the [tables](https://osf.io/28vup/) to get a better picture of this.
