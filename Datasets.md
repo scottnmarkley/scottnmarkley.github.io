@@ -7,11 +7,12 @@ This page provides a centralized place to download some of the  datasets I have 
 
 ### [HHUUD10 on Esri's Living Atlas](https://livingatlas.arcgis.com/en/browse/?q=hhuud10#q=hhuud10&d=2) | [HHUUD10 on OSF](https://osf.io/fzv5e/)
 
-HHUUD10 provides historical housing unit counts and urbanization estimates in consistent tract boundaries for the entire United States for each decade from 1940 to 2010 plus 2019. The data is available in csv, dta, xpt, v8xpt, shapefile, and geojson formats. It is also available as a feature service through Esri's Living Atlas. See [here](https://snmarkley1.github.io/Projects/HHUUD10/) for more info.
+HHUUD10 provides historical housing unit counts and urbanization estimates in consistent census tract boundaries for the entire United States for each decade from 1940 to 2010 plus 2019. The data is available in csv, dta, xpt, v8xpt, shapefile, and geojson formats. It is also available as a feature service through Esri's Living Atlas. The methodology is provided [here](https://www.nature.com/articles/s41597-022-01184-x).
+
 
 ### [THOLCADS Data on OSF](https://osf.io/qytj8/)
 
-THOLCADS provides tabulated Area Description sheet data from the Home Owners' Loan Corporation's (HOLC) Residential Security maps. Available in xlsx, csv, shapefile, and geojson formats, this dataset allows users to more easily conduct qualitative and quantitative assessments of the criteria used by HOLC to assign neighborhood risk scores. See [here](https://snmarkley1.github.io/Projects/HOLC/) fore more info.
+THOLCADS provides tabulated Area Description sheet data from the Home Owners' Loan Corporation's (HOLC) Residential Security maps. Available in xlsx, csv, shapefile, and geojson formats, this dataset allows users to more easily conduct qualitative and quantitative assessments of the criteria used by HOLC to assign neighborhood risk scores. More background, including the methodology, is provided [here](https://osf.io/preprints/socarxiv/dktah/).
 
 ### [Tracts by Census Place Using Centroids on GitHub](https://github.com/snmarkley1/Tracts-by-Census-Place-Using-Centroids)
 
