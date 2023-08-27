@@ -10,7 +10,7 @@ This page provides a centralized place to download some of the  datasets I have 
 HHUUD10 provides historical housing unit counts and urbanization estimates in consistent census tract boundaries for the entire United States for each decade from 1940 to 2010 plus 2019. The data is available in csv, dta, xpt, v8xpt, shapefile, and geojson formats. It is also available as a feature service through Esri's Living Atlas. The methodology is provided [here](https://www.nature.com/articles/s41597-022-01184-x).
 
 
-### [THOLCADS Data at the LMEC at Boston Public Library](https://data.leventhalmap.org/#/catalog/dkyajewyh) | [THOLCADS Data on OSF](https://osf.io/qytj8/)
+### [THOLCADS Data at the Boston Public Library](https://data.leventhalmap.org/#/catalog/dkyajewyh) | [THOLCADS Data on OSF](https://osf.io/qytj8/)
 
 THOLCADS provides tabulated Area Description sheet data from the Home Owners' Loan Corporation's (HOLC) Residential Security maps. Available in xlsx, csv, shapefile, and geojson formats, this dataset allows users to more easily conduct qualitative and quantitative assessments of the criteria used by HOLC to assign neighborhood risk scores. More background, including the methodology, is provided [here](https://osf.io/preprints/socarxiv/dktah/).
 
