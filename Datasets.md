@@ -11,7 +11,7 @@ HHUUD10 provides historical housing unit counts and urbanization estimates in co
 
 ### [THOLCADS Data on OSF](https://osf.io/qytj8/)
 
-THOLCADS provides tabulated Area Description sheet data from the Home Owners' Loan Corporation's (HOLC) Residential Security maps. The data is available in xlsx, csv, shapefile, and geojson formats. See [here](https://snmarkley1.github.io/Projects/HOLC/) fore more info.
+THOLCADS provides tabulated Area Description sheet data from the Home Owners' Loan Corporation's (HOLC) Residential Security maps. Available in xlsx, csv, shapefile, and geojson formats, this dataset allows users to more easily conduct qualitative and quantitative assessments of the criteria used by HOLC to assign neighborhood risk scores. See [here](https://snmarkley1.github.io/Projects/HOLC/) fore more info.
 
 ### [Tracts by Census Place Using Centroids on GitHub](https://github.com/snmarkley1/Tracts-by-Census-Place-Using-Centroids)
 
