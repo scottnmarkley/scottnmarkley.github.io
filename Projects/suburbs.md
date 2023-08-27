@@ -35,7 +35,7 @@ More on suburban Atlanta's gentrification and displacement initiatives can be fo
 - Markley, S. (2018). [From exclusion to expulsion: demolition, displacement, and race in Atlanta’s northern suburbs](https://doi.org/10.18737/atls20181030). *Atlanta Studies* (October 30, 2018).
 - Markley, S. and C. Allums. (2020). [Postfascist (sub)urbanism: ‘social cleansing’ in the age of Trump](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429242670-9/postfascist-sub-urbanism-scott-markley-coleman-allums), in B. Warf (editor), *The Political Landscapes of Donald Trump*. New York: Routledge.
 
-If you would like free access to any of this material or if you have any other questions, please do not hesitate to reach out to me at **scott.markley@uga.edu**.
+If you would like free access to any of this material or if you have any other questions, please do not hesitate to reach out to me at **scott.markley@cornell.edu**.
 
 ## The Fight Against Displacement
 Many local organizations are fighting against displacement and for affordable housing in the region. Here are a few doing this important work:
