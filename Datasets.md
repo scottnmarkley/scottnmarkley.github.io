@@ -5,7 +5,7 @@ title: Datasets
 This page provides a centralized place to download to some of the datasets I have helped create, including the Historical Housing Unit and Urbanization Database v2010 (HHUUD10), the Tabulated HOLC Area Description Sheets (THOLCADS), and Tracts by Census Place Using Centroid.
 
 
-### [Esri's Living Atlas](https://livingatlas.arcgis.com/en/browse/?q=hhuud10#q=hhuud10&d=2) | [HHUUD10 on OSF](https://osf.io/fzv5e/)
+### [HHUUD10 on Esri's Living Atlas](https://livingatlas.arcgis.com/en/browse/?q=hhuud10#q=hhuud10&d=2) | [OSF](https://osf.io/fzv5e/)
 
 HHUUD10 provides historical housing unit counts and urbanization estimates in consistent tract boundaries for the entire United States for each decade from 1940 to 2010 plus 2019.
 
