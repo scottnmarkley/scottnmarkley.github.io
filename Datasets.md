@@ -7,7 +7,7 @@ This page provides a centralized place to download some of the  datasets I have 
 
 ### [HHUUD10 on Esri's Living Atlas](https://livingatlas.arcgis.com/en/browse/?q=hhuud10#q=hhuud10&d=2) | [HHUUD10 on OSF](https://osf.io/fzv5e/)
 
-HHUUD10 provides historical housing unit counts and urbanization estimates in consistent census tract boundaries for the entire United States for each decade from 1940 to 2010 plus 2019. The data is available in csv, dta, xpt, v8xpt, shapefile, and geojson formats. It is also available as a feature service through Esri's Living Atlas. The methodology is provided [here](https://www.nature.com/articles/s41597-022-01184-x).
+HHUUD10 provides historical housing unit counts and urbanization estimates in consistent census tract boundaries for the entire United States for each decade from 1940 to 2010 plus 2019. The data is available in csv, dta, xpt, v8xpt, shapefile, and geojson formats. It is also available as a feature service through Esri's Living Atlas. The methodology is detailed [here](https://www.nature.com/articles/s41597-022-01184-x).
 
 
 ### [THOLCADS Data at the Boston Public Library](https://data.leventhalmap.org/#/catalog/dkyajewyh) | [THOLCADS Data on OSF](https://osf.io/qytj8/)
