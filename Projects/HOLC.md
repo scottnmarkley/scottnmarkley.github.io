@@ -39,13 +39,13 @@ Additionally, we can see how some of the descriptive data breaks down by HOLC Gr
   <img src="/HOLC/qual_charts.png" width="800" title="Home Repair Status, Mortgage Availability, and Occupation Class by HOLC Grade"/>
 </p>
 
-We might also wonder about how HOLC appraisers issued neighborhood grades based on the presence of different "foreign born" groups. That is shown in the graph here. Notably, the relationship between grades and "foreign born" groups closely tracks the racist ranking system published by the influential land-use economist Homer Hoyt in his 1933 *One Hundred Years of Land Values in Chicago*. Here, Hoyt asserted that land values in an area went up or down depending on which of these populations lived nearby. Hoyt's book was exceptionally well-regarded within the industry, and he would later serve as the head economist of the Federal Housing Administration (FHA). There, he was instrumental in the agency's adoption of its own redlining maps and policies that were used to deny mortgages to non-white applicants.
+We might also wonder about how HOLC appraisers issued neighborhood grades based on the presence of different "foreign born" groups. That is shown in the graph here, which enumerates the number of HOLC neighborhoods where each population group is at least mentioned.
 
 <p style="text-align: center">
   <img src="/Projects/HOLC_group.png" width="800" title="HOLC Grade by Group"/>
 </p>
 
-It is worth noting that these breakdowns include any "Area Description" sheets where the population group in question was mentioned. It does not take the size of that group into account. We can use the data in the [tables](https://osf.io/qytj8/) to get a better picture of this.
+Notably, the relationship between grades and "foreign born" groups closely tracks the racist ranking system published by the influential land-use economist Homer Hoyt in his 1933 *One Hundred Years of Land Values in Chicago*. Here, Hoyt asserted that land values in an area went up or down depending on which of these populations lived nearby. Hoyt's book was exceptionally well-regarded within the industry, and he would later serve as the head economist of the Federal Housing Administration (FHA). There, he was instrumental in the agency's adoption of its own redlining maps and policies that were used to deny mortgages to non-white applicants.
 
 <p style="text-align: center">
     <img src="/Projects/hoyt.png" width="600" title="Hoyt's ranking"/>
