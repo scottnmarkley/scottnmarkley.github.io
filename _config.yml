@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/Projects/suburbs.md", title: " "}
   - {url: "holc_map.html", title: " "}
   - {url: "apt_map.html", title: " "}
-  - {file: "/index.md", title: "Home"}
+  - {file: "https://snmarkley1.github.io/", title: "Home"}
   - {file: "Projects.md", title: "Projects"}
   - {url: "https://snmarkley1.github.io/cv/markley_cv_202408.pdf", title: "CV"}
   - {file: "Datasets.md", title: "Datasets"}
