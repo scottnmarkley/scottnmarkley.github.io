@@ -35,6 +35,6 @@ title: Projects
          title="National Zoning Atlas" 
          width = "330"
          height = "220"
-         style="border:2px solid #555;margin:4px;float:left" />
+         style="border:2px solid #555;margin:0px;" />
 </a>
 </p>
