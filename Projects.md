@@ -30,4 +30,11 @@ title: Projects
          height = "220"
          style="border:2px solid #555;margin:4px;float:left" />
 </a>
+<a href="https://snmarkley1.github.io/Projects/NZA/">
+    <img src="/Projects/nza_tile.png" 
+        title="National Zoning Atlas" 
+        width = "330"
+        height = "220"
+        style="border:2px solid #555;margin:0px;" />
+</a>
 </p>
