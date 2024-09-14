@@ -9,5 +9,5 @@ Since the beginning of 2023, I have served as the Geospatial Project Coordinator
 <iframe
     width="800"
     height="450"
-    src="[/holc_map.html](https://www.zoningatlas.org/atlas/?lat=39.72323&lng=-105.13175&zoom=9.962)" >
+    src="https://www.zoningatlas.org/atlas/?lat=39.72323&lng=-105.13175&zoom=9.962" >
 </iframe>
