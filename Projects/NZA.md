@@ -8,6 +8,6 @@ Since the beginning of 2023, I have served as the Geospatial Project Coordinator
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <a href="https://www.zoningatlas.org/atlas/" target="_blank">See Atlas on NZA Website <i class="fa fa-external-link"></i></a>
 
-<style>.embed-container {position: relative; padding-bottom: 53%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="850" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Tract-level Housing Unit Changes, 1940-2019" src="//zoningatlas.org/atlas/?lat=39.72323&lng=-105.13175&zoom=9.962"></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 53%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="850" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="National Zoning Atlas" src="//zoningatlas.org/atlas/?lat=39.72323&lng=-105.13175&zoom=9.962"></iframe></div>
 
 
