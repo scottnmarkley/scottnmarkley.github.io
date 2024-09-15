@@ -44,5 +44,5 @@ The snapshots also summarize minimum lot and ADU rules across the region. For la
 
 <p style="text-align: center">
   <figcaption><strong><em>Minimum Lot Sizes and ADU Allowances in Metro Austin, TX</em></strong></figcaption>
-  <img src="/Projects/Metro_Austin_MinLotADU.png" width="850" title="Minimum Lot Sizes and ADU Allowances)"/>
+  <img src="/Projects/Metro_Austin_MinLot_ADU.png" width="850" title="Minimum Lot Sizes and ADU Allowances)"/>
 </p>
