@@ -18,11 +18,12 @@ Since the beginning of 2023, I have served as the Geospatial Project Coordinator
   title="National Zoning Atlas" 
   src="//edit.zoningatlas.org/atlas/?lat=39.28516&lng=-76.62721&zoom=10.396">
 </iframe>
+<figcaption>National Zoning Atlas</figcaption>
 </p>
 
 In addition to helping build the Atlas, I have also helped generate the NZA's [Zoning Snapshot series](https://www.zoningatlas.org/snapshots). These data visualizations summarize how zoning rules like allowed densities, minimum lot sizes, accessory dwelling unit allowances, and more break down across jurisdictions within metropolitan regions.
 
-<a> Metro Austin Zoning Snapshot </a>
 <p style="text-align: center">
 <embed src = "/Projects/MetroAustin.pdf" width = "850" height = "1100" />
+<figcaption>Metro Austin Zoning Snapshot</figcaption>
 </p>
