@@ -21,7 +21,13 @@ Since the beginning of 2023, I have served as the Geospatial Project Coordinator
 </p>
 
 ### Zoning Snapshots
-In addition to helping build the Atlas, I have also helped generate the NZA's [Zoning Snapshot series](https://www.zoningatlas.org/snapshots). These data visualizations summarize how zoning rules like allowed unit densities, minimum lot sizes, accessory dwelling unit allowances, and minimum parking requirements break down across jurisdictions within metropolitan regions. For example, looking at the snapshot for Metro Austin, Texas below, we can see that across Metro Austin's 54 jurisdictions with zoning authority, only 15 percent of the land area is subject to zoning regulations. And within that portion, we can see that a plurality of land is designated for mixed residential and non-residential uses.
+In addition to helping build the Atlas, I have also helped generate the NZA's [Zoning Snapshot series](https://www.zoningatlas.org/snapshots). These data visualizations summarize how zoning rules like allowed unit densities, minimum lot sizes, accessory dwelling unit allowances, and minimum parking requirements break down across jurisdictions within metropolitan regions.
+
+For example, looking at the snapshot figures for Metro Austin, Texas below, we can see that across Metro Austin's 54 jurisdictions with zoning authority, only 15 percent of the land area is subject to zoning regulations. And within that portion, we can see that a plurality of land is designated for mixed residential and non-residential uses. Unlike most other states, in Texas, unincorporated counties do not usually have zoning power, hence the large portion of unzoned jurisdiction land here.
+
+<p style="text-align: center">
+  <img src="/Projects/Metro_Austin_Landuse.png" width="600" title="Land Use (All Land & Zoned Land)"/>
+</p>
 
 Further below, this snapshot shows that while 64 percent of the zoned land allows single-family housing units by right, only 17 percent allows four or more units by right.
 
