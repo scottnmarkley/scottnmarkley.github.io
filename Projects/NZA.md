@@ -30,7 +30,9 @@ For example, looking at the snapshot figures for Metro Austin, Texas below, we c
   <img src="/Projects/Metro_Austin_Landuse.png" width="600" title="Land Use (All Land & Zoned Land)"/>
 </p>
 
-Further below, this snapshot shows that while 64 percent of the zoned land allows single-family housing units by right, only 17 percent allows four or more units by right.
+<p>This is a <strong>bold</strong> text.</p>
+
+Looking at just that zoned portion of Metro Austin's land, the snapshots also detail how 
 
 <p style="text-align: center">
 <figcaption><a href="https://static1.squarespace.com/static/623b33ac24392268745c48d9/t/66cd066c27253c13c4ec454c/1724712556464/Metro+Austin.pdf">Metro Austin Zoning Snapshot</a></figcaption>
