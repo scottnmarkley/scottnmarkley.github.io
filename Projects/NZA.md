@@ -46,3 +46,5 @@ The snapshots also summarize minimum lot and ADU rules across the region. For la
   <figcaption><strong><em>Minimum Lot Sizes and ADU Allowances in Metro Austin, TX</em></strong></figcaption>
   <img src="/Projects/Metro_Austin_MinLot_ADU.png" width="850" title="Minimum Lot Sizes and ADU Allowances)"/>
 </p>
+
+These figures represent just a few of the insights that the NZA's unique dataset makes possible. I am currently working to expand the types of questions it can help answer.
