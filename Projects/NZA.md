@@ -9,8 +9,8 @@ Since the beginning of 2023, I have served as the Geospatial Project Coordinator
 <a href="https://www.zoningatlas.org/atlas/" target="_blank">See Atlas on NZA Website <i class="fa fa-external-link"></i></a>
 <p style="text-align: center">
 <iframe 
-  width="850" 
-  height="850" 
+  width="800" 
+  height="800" 
   frameborder="0" 
   scrolling="yes" 
   marginheight="0" 
