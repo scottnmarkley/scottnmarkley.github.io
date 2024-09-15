@@ -24,5 +24,5 @@ In addition to helping build the Atlas, I have also helped generate the NZA's [Z
 
 <a href="https://static1.squarespace.com/static/623b33ac24392268745c48d9/t/66cd066c27253c13c4ec454c/1724712556464/Metro+Austin.pdf"</a>
 <p style="text-align: center">
-<embed src = "/Projects/MetroAustin.pdf" width = "600" />
+<embed src = "/Projects/MetroAustin.pdf" width = "800" height = "1000" />
 </p>
