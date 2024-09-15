@@ -23,6 +23,5 @@ Since the beginning of 2023, I have served as the Geospatial Project Coordinator
 In addition to helping build the Atlas, I have also helped generate the NZA's [Zoning Snapshot series](https://www.zoningatlas.org/snapshots). These data visualizations summarize how zoning rules like allowed densities, minimum lot sizes, accessory dwelling unit allowances, and more break down across jurisdictions within metropolitan regions.
 
 <p style="text-align: center">
-<a href="/Projects/MetroAustin.pdf"></a>
-<img src="/Projects/MetroAustin.pdf" width="600" title="Metro Austin Zoning Snapshot"/>
+<embed src = "/Projects/MetroAustin.pdf" width = "600" />
 </p>
