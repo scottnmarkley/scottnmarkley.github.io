@@ -10,7 +10,7 @@ Since the beginning of 2023, I have served as the Geospatial Project Coordinator
 <p style="text-align: center">
 <iframe 
   width="850" 
-  height="900" 
+  height="850" 
   frameborder="0" 
   scrolling="yes" 
   marginheight="0" 
