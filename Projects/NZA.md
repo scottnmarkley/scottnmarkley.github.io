@@ -20,17 +20,26 @@ Since the beginning of 2023, I have served as the Geospatial Project Coordinator
 </iframe>
 </p>
 
+
 ### Zoning Snapshots
 In addition to helping build the Atlas, I have also helped generate the NZA's [Zoning Snapshot series](https://www.zoningatlas.org/snapshots). These data visualizations summarize how zoning rules like allowed unit densities, minimum lot sizes, accessory dwelling unit allowances, and minimum parking requirements break down across jurisdictions within metropolitan regions.
 
 For example, looking at the snapshot figures for Metro Austin, Texas below, we can see that across Metro Austin's 54 jurisdictions with zoning authority, only 15 percent of the land area is subject to zoning regulations. And within that portion, we can see that a plurality of land is designated for mixed residential and non-residential uses. Unlike most other states, in Texas, unincorporated counties do not usually have zoning power, hence the large portion of unzoned jurisdiction land here.
+
 
 <p style="text-align: center">
   <figcaption><strong><em>Land Use in Metro Austin, TX (All Land & Zoned Land)</em></strong></figcaption>
   <img src="/Projects/Metro_Austin_Landuse.png" width="600" title="Land Use (All Land & Zoned Land)"/>
 </p>
 
-Looking at just that zoned portion of Metro Austin's land, the snapshots also detail how 
+
+Looking at just that zoned portion of Metro Austin's land, the snapshots also detail density allowances in the zoning code. Here, we see that while nearly two-thirds of land zoned for residential uses allows single-family home construction by right, only 17 percent allows multifamily (4+-family) housing by right.
+
+<p style="text-align: center">
+  <figcaption><strong><em>Units Allowed in Metro Austin, TX</em></strong></figcaption>
+  <img src="/Projects/Metro_Austin_Units_Allowed.png" width="600" title="Land Use (All Land & Zoned Land)"/>
+</p>
+
 
 <p style="text-align: center">
 <figcaption><a href="https://static1.squarespace.com/static/623b33ac24392268745c48d9/t/66cd066c27253c13c4ec454c/1724712556464/Metro+Austin.pdf">Metro Austin Zoning Snapshot</a></figcaption>
