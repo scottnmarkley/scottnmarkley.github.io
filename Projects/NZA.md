@@ -16,7 +16,7 @@ Since the beginning of 2023, I have served as the Geospatial Project Coordinator
   marginheight="0" 
   marginwidth="0" 
   title="National Zoning Atlas" 
-  src="//edit.zoningatlas.org/atlas/?lat=39.28812&lng=-76.63347&zoom=11.064">
+  src="//edit.zoningatlas.org/atlas/?lat=39.28516&lng=-76.62721&zoom=10.396">
 </iframe>
 </p>
 
