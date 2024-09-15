@@ -30,18 +30,21 @@ Zoom into a city and click on one of its HOLC neighborhoods to see its attribute
 Using the data provided in the map, we can see the HOLC grading breakdown by variable and region. Despite some noteworthy regional variation, the Black population share, "Foreign Born" population share, and Building Age increase as the neighborhood grade goes from A to D, while Family Income moves in the opposite direction. This is expected, as these factors all played an important role in how lenders, real estate brokers, landlords, appraisers, and others dealing in real estate perceived an area's potential returns on property investment. Specifically, the visible presence of Black residents in a neighborhood was widely assumed to be detrimental to property values. Accordingly, as the top-left panel suggests, almost all neighborhoods with any Black residents at all were assigned a D grade.
 
 <p style="text-align: center">
+  <figcaption><strong><em>% Black, % Foreign Born, Family Income, and Building Age by HOLC Grade According to the Area Descriptions</em></strong></figcaption>
   <img src="/Projects/fourplots.png" width="800" title="HOLC Variables by Region"/>
 </p>
 
 Additionally, we can see how some of the descriptive data breaks down by HOLC Grade. The figure below shows how Home Repair Status, Home Mortgage Availability, and Resident Occupation Class were districted by HOLC grade. Again, these distributions conform to expectations.
 
 <p style="text-align: center">
+  <figcaption><strong><em>Home Repair Status, Mortgage Availability, and Occupation Class by HOLC Grade According to the Area Descriptions</em></strong></figcaption>
   <img src="/HOLC/qual_charts.png" width="800" title="Home Repair Status, Mortgage Availability, and Occupation Class by HOLC Grade"/>
 </p>
 
 We might also wonder about how HOLC appraisers issued neighborhood grades based on the presence of different "foreign born" groups. That is shown in the graph here, which enumerates the number of HOLC neighborhoods where each population group is at least mentioned.
 
 <p style="text-align: center">
+  <figcaption><strong><em>Population Groups by HOLC Grade According to the Area Descriptions</em></strong></figcaption>
   <img src="/Projects/HOLC_group.png" width="800" title="HOLC Grade by Group"/>
 </p>
 
