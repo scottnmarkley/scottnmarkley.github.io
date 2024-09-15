@@ -2,7 +2,7 @@
 title: National Zoning Atlas
 ---
 
-Since the beginning of 2023, I have served as the Geospatial Project Coordinator for the [National Zoning Atlas (NZA)](https://www.zoningatlas.org/), a research collaborative based at Cornell University that is building the most extensive, detailed, and reliable repository of standardized zoning data in the US. So far, our group has collected, digitized, and mapped zoning information for over 5,000 jurisdictions covering over 110 million people across the country.
+Since the beginning of 2023, I have served as the Geospatial Project Coordinator for the [National Zoning Atlas (NZA)](https://www.zoningatlas.org/), a research collaborative based at Cornell University that is building the most extensive, detailed, and reliable repository of standardized zoning data in the US. So far, our group has collected, digitized, and mapped zoning information for over 5,000 jurisdictions covering over 110 million people across the country. Check it out below.
 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -20,4 +20,11 @@ Since the beginning of 2023, I have served as the Geospatial Project Coordinator
 </iframe>
 </p>
 
+In addition to helping build the Atlas, I have also helped generate the NZA's [Zoning Snapshot series](https://www.zoningatlas.org/snapshots). These data visualizations summarize how zoning rules like allowed densities, minimum lot sizes, accessory dwelling unit allowances, and more break down across jurisdictions within metropolitan regions.
 
+<p style="text-align: center">
+<a href="https://static1.squarespace.com/static/623b33ac24392268745c48d9/t/66cd066c27253c13c4ec454c/1724712556464/Metro+Austin.pdf">
+<img src="https://static1.squarespace.com/static/623b33ac24392268745c48d9/t/66cd066c27253c13c4ec454c/1724712556464/Metro+Austin.pdf" 
+     width="600"
+     title="Metro Austin Zoning Snapshot" /></a>
+ </p>
