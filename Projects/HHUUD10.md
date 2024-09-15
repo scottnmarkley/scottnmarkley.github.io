@@ -16,9 +16,6 @@ HHUUD10 data can also be used to capture sub/urbanization through time. The grap
 
 
 <p style="text-align: center">
+   <figcaption><strong><em>Urbanization in Metro Atlanta by 2010 Census Tracts, 1940-2019</em></strong></figcaption>
   <img src="/Projects/atl.gif" width="600" title="Urbanization in Metro Atlanta, 1940-2019"/>
-  <figcaption>Urbanization in Metro Atlanta by 2010 Census Tracts, 1940-2019</figcaption>
 </p>
-
-
-
