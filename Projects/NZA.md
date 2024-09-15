@@ -26,6 +26,7 @@ In addition to helping build the Atlas, I have also helped generate the NZA's [Z
 For example, looking at the snapshot figures for Metro Austin, Texas below, we can see that across Metro Austin's 54 jurisdictions with zoning authority, only 15 percent of the land area is subject to zoning regulations. And within that portion, we can see that a plurality of land is designated for mixed residential and non-residential uses. Unlike most other states, in Texas, unincorporated counties do not usually have zoning power, hence the large portion of unzoned jurisdiction land here.
 
 <p style="text-align: center">
+  <figcaption>Land Use in Metro Austin, TX (All Land & Zoned Land)</figcaption>
   <img src="/Projects/Metro_Austin_Landuse.png" width="600" title="Land Use (All Land & Zoned Land)"/>
 </p>
 
