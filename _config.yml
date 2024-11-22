@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "holc_map.html", title: " "}
   - {url: "apt_map.html", title: " "}
   - {file: "Projects.md", title: "Projects"}
-  - {url: "cv/markley_cv_202409.pdf", title: "CV"}
+  - {url: "cv/markley_cv_202411.pdf", title: "CV"}
   - {file: "Datasets.md", title: "Datasets"}
 
 
