@@ -1,6 +1,6 @@
 title: "Scott Markley"
 author: "Scott Markley"
-description: "&#9993; scott.markley@cornell.edu"
+description: "&#9993; scott@landuseatlas.org"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -31,7 +31,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/snmarkley1"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/snmarkley"}
   - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=onwbEAoAAAAJ&hl=en&oi=ao"}
-  - {title: Mail, icon: envelope, url: "mailto:scott.markley@cornell.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:scott@landuseatlas.org"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
