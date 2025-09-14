@@ -2,7 +2,7 @@
 title: National Zoning Atlas
 ---
 
-Since the beginning of 2023, I have served as the Geospatial Project Coordinator for the [National Zoning Atlas (NZA)](https://www.zoningatlas.org/), a research collaborative based at Cornell University that is building the most extensive, detailed, and reliable repository of standardized zoning data in the US. So far, our group has collected, digitized, and mapped zoning information for over 5,000 jurisdictions covering over 110 million people across the country. Check it out below.
+I am the Research Director for the [National Zoning Atlas (NZA)](https://www.zoningatlas.org/), a 501(c)(3) non-profit organization that is building the most extensive, detailed, and reliable repository of standardized zoning data in the US. So far, our group has collected, digitized, and mapped zoning information for over 8,000 jurisdictions covering over half the population and the land in the country. Check it out below.
 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
