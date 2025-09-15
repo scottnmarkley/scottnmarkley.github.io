@@ -2,7 +2,7 @@
 title: Datasets
 ---
 
-This page serves as a central place to access some of the spatial datasets I have helped create, including the Historical Housing Unit and Urbanization Database v2010 (HHUUD10), Tabulated HOLC Area Description Sheet (THOLCADS) Data, and National Zoning Atlas.
+This page serves as a central place to access some of the spatial datasets I have helped create, including the Historical Housing Unit and Urbanization Database v2010 (HHUUD10) and Tabulated HOLC Area Description Sheet (THOLCADS) Data or that I have substantially contributed to, including the National Zoning Atlas.
 
 
 ### [HHUUD10 on OSF](https://osf.io/fzv5e/) | [HHUUD10 on Living Atlas](https://www.arcgis.com/home/item.html?id=98efddc0d7b84ddea6d211f7958447d8)
@@ -16,7 +16,7 @@ This page serves as a central place to access some of the spatial datasets I hav
 
 ### [National Zoning Atlas](https://doi.org/10.4079/zoning-atlas)
 
-> The National Zoning Atlas collects over 120 zoning variables from jurisdictions across the United States and displays this information on their [public map](https://www.zoningatlas.org/atlas) and in their [snapshots](https://www.zoningatlas.org/snapshots) in their efforts to digitize, demystify, and democratize zoning codes.
+> The National Zoning Atlas collects over 120 zoning variables from jurisdictions across the United States and displays this information on their [public map](https://www.zoningatlas.org/atlas) and in their [snapshots](https://www.zoningatlas.org/snapshots) in their efforts to digitize, demystify, and democratize zoning codes. The methods to construct the Atlas are available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4476927).
 
 ### [Tracts by Census Place Using Centroids on GitHub](https://github.com/snmarkley1/Tracts-by-Census-Place-Using-Centroids)
 
