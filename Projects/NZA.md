@@ -28,7 +28,7 @@ For example, looking at the snapshot figures from our Colorado Report below, we 
 
 <p style="text-align: center">
   <figcaption><strong><em></em></strong></figcaption>
-  <img src="/Projects/units_allowed_colorado.png" width="600" title="Land Use (All Land & Zoned Land)"/>
+  <img src="/Projects/units_allowed_colorado.png" height="800" title="Land Use (All Land & Zoned Land)"/>
 </p>
 
 
