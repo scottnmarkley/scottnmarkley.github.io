@@ -36,7 +36,7 @@ Our snapshot stats also summarize ADU and minimum lot size lot size rules. With 
 
 <p style="text-align: center">
   <figcaption><strong><em></em></strong></figcaption>
-  <img src="/Projects/adu_mls_denver_suburbs" height="1800" title="Units Allowed"/>
+  <img src="/Projects/adu_mls_denver_suburbs.png" height="1800" title="Units Allowed"/>
 </p>
 
 These figures represent just a few of the insights that the NZA's unique dataset makes possible. I am currently working to expand the types of questions it can help answer.
