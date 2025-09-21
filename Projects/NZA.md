@@ -28,17 +28,17 @@ For example, looking at the snapshot figures from our Colorado Report below, we 
 
 <p style="text-align: center">
   <figcaption><strong><em></em></strong></figcaption>
-  <img src="/Projects/units_allowed_colorado.png" height="800" title="Land Use (All Land & Zoned Land)"/>
+  <img src="/Projects/units_allowed_colorado.png" width="850" title="Land Use (All Land & Zoned Land)"/>
 </p>
 
 
 Our snapshot stats also summarize ADU and minimum lot size lot size rules. With NZA data, it is possible to compare these land use regulations across different places. For our Colorado Report, I compare ADU and minimum lot size requirements between Denver and five of its major suburbs. The results show some considerable variability between places. As the figure below illustrates, Denver and Littleton both allow ADUs as of right without any occupancy restrictions on all of their single-family land, whereas Westminster prohibits ADUs on all of this land.
 
-Minimum lot size rules also vary between Denver and its suburbs. Denver, like most major cities, enforces fairly small lot requirements for single-family homes, mostly under a quarter acres. However, in suburbs like Lakewood and Littleton, a sizable share of their single-family land requires lots to be at least a half acre. Larger minimum lot sizes encourage environmentally destructive sprawl and inflate home prices, affecting not just these suburbs but the larger metropolitan region.
+Minimum lot size rules also vary between Denver and its suburbs. Denver, like most major cities, enforces fairly small lot requirements for single-family homes, mostly under a quarter acre. However, in suburbs like Lakewood and Littleton, a sizable share of their single-family land requires lots to be at least a half acre. Larger minimum lot sizes encourage environmentally destructive sprawl and inflate home prices, affecting affordability not just in these municipalities but across the metropolitan region.
 
 <p style="text-align: center">
   <figcaption><strong><em></em></strong></figcaption>
-  <img src="/Projects/adu_mls_denver_suburbs.png" height="1800" title="Units Allowed"/>
+  <img src="/Projects/adu_mls_denver_suburbs.png" width="850" title="Units Allowed"/>
 </p>
 
 These figures represent just a few of the insights that the NZA's unique dataset makes possible. I am currently working to expand the types of questions it can help answer.
