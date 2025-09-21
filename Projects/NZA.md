@@ -32,18 +32,11 @@ For example, looking at the snapshot figures from our Colorado Report below, we 
 </p>
 
 
-Looking at just that zoned portion of Metro Austin's land, the snapshots also detail density allowances in the zoning code. Here, we see that while nearly two-thirds of land zoned for residential uses allows single-family home construction by right, only 17 percent allows four-or-more-unit housing by right. As with every metropolitan area we have analyzed so far, the zoning codes in Metro Austin massively favor single-family home construction over multifamily construction.
+Our snapshot stats also summarize ADU and minimum lot size lot size rules. With NZA data, it is possible to compare these land use regulations across different places. For our Colorado Report, I compare ADU and minimum lot size requirements between Denver and five of its major suburbs. The results show some considerable variability between places. As the figure below illustrates, Denver and Littleton both allow ADUs as of right without any occupancy restrictions on all of their single-family land, whereas Westminster prohibits ADUs on all of this land. Minimum lot size rules also vary between Denver and its suburbs. Denver, like most major cities, enforces fairly small lot requirements for single-family homes, mostly under a quarter acres. However, in suburbs like Lakewood and Littleton, a sizable share of their single-family land requires lots to be at least a half acre.
 
 <p style="text-align: center">
-  <figcaption><strong><em>Units Allowed in Metro Austin, TX</em></strong></figcaption>
-  <img src="/Projects/Metro_Austin_Units_Allowed.png" width="600" title="Units Allowed"/>
-</p>
-
-The snapshots also summarize minimum lot and ADU rules across the region. For land allowing single-family housing, 86 percent has some minimum lot size requirement, while only 48 percent allows ADU construction by right. These types of restrictions encourage low-density suburban sprawl, and larger minimum lot sizes make housing more expensive.
-
-<p style="text-align: center">
-  <figcaption><strong><em>Minimum Lot Sizes and ADU Allowances in Metro Austin, TX</em></strong></figcaption>
-  <img src="/Projects/Metro_Austin_MinLot_ADU.png" width="850" title="Minimum Lot Sizes and ADU Allowances)"/>
+  <figcaption><strong><em></em></strong></figcaption>
+  <img src="/Projects/adu_mls_denver_suburbs" height="1800" title="Units Allowed"/>
 </p>
 
 These figures represent just a few of the insights that the NZA's unique dataset makes possible. I am currently working to expand the types of questions it can help answer.
