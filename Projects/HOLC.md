@@ -55,3 +55,11 @@ Notably, the relationship between grades and "foreign born" groups closely track
     <img src="/Projects/hoyt.png" width="600" title="Hoyt's ranking"/>
     <figcaption>Source: <a href="https://chipublib.bibliocommons.com/v2/record/S126C844620">Hoyt (1933: 316)</a></figcaption>
 </p>
+
+## Read More
+- Markley, S. and A. Bonds. (2025). [Race and value in space and time: a critical narrative cartography of the Home Owners' Loan Corporation's Area Descriptions](https://www.tandfonline.com/doi/abs/10.1080/02723638.2025.2492218). *Urban Geography* (in press): 1–22.
+- Swope, C., S. Markley, S. Whittaker, and A. Hillier. (2025). [How and why does redlining matter for present-day health? Critical perspectives on causality, cartography, and capitalism](https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2024.308000). *American Journal of Public Health* 115(5): 769–779.
+- Markley, S. and S. Holloway. (2024). [Underestimating racism? Decoupling race and redlining](https://www.tandfonline.com/doi/abs/10.1080/24694452.2024.2350993). *Annals of the American Association of Geographers* 114(7): 1464–1482.
+- Markley, S. (2024). [Housing, socioeconomic, and racial data in consistent neighborhood geometries for 54 cities mapped by the Home Owners' Loan Corporation, 1940–2019](
+
+
