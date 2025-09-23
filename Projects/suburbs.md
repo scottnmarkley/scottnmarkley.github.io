@@ -36,7 +36,7 @@ More on suburban Atlanta's gentrification and displacement initiatives can be fo
 - Markley, S. & M. Sharma. (2016). [Gentrification in the revanchist suburb: the politics of removal in Roswell, Georgia.](https://www.jstor.org/stable/26233772) *Southeastern Geographer* 56(1): 384-408.
 
 
-If you would like free access to any of this material or if you have any other questions, please do not hesitate to reach out to me at **scott.markley@cornell.edu**.
+If you would like free access to any of this material or if you have any other questions, please do not hesitate to reach out to me at **scott@landuseatlas.org**.
 
 ## The Fight Against Displacement
 Many local organizations are fighting against displacement and for affordable housing in the region. Here are a few doing this important work:
