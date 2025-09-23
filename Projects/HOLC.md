@@ -59,7 +59,9 @@ Notably, the relationship between grades and "foreign born" groups closely track
 ## Read More
 - Markley, S. and A. Bonds. (2025). [Race and value in space and time: a critical narrative cartography of the Home Owners' Loan Corporation's Area Descriptions](https://www.tandfonline.com/doi/abs/10.1080/02723638.2025.2492218). *Urban Geography* (in press): 1–22.
 - Swope, C., S. Markley, S. Whittaker, and A. Hillier. (2025). [How and why does redlining matter for present-day health? Critical perspectives on causality, cartography, and capitalism](https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2024.308000). *American Journal of Public Health* 115(5): 769–779.
+- Markley, S. (2024). [Federal 'redlining' maps: a critical reappraisal](https://journals.sagepub.com/doi/abs/10.1177/00420980231182336). *Urban Studies* 61(2): 195–213.
 - Markley, S. and S. Holloway. (2024). [Underestimating racism? Decoupling race and redlining](https://www.tandfonline.com/doi/abs/10.1080/24694452.2024.2350993). *Annals of the American Association of Geographers* 114(7): 1464–1482.
-- Markley, S. (2024). [Housing, socioeconomic, and racial data in consistent neighborhood geometries for 54 cities mapped by the Home Owners' Loan Corporation, 1940–2019](
+- Markley, S. (2024). [Housing, socioeconomic, and racial data in consistent neighborhood geometries for 54 cities mapped by the Home Owners' Loan Corporation, 1940–2019](https://osf.io/preprints/socarxiv/5w6jx_v1). Available at *SocArXiV*: [https://osf.io/preprints/socarxiv/5w6jx_v1](https://osf.io/preprints/socarxiv/5w6jx_v1).
+- Markley, S. (2023). [Tabulating Home Owners' Loan Corporation Area Description sheet data](https://journals.sagepub.com/doi/abs/10.1177/23998083221133112). *Environment and Planning B: Urban Analytics and City Science* 50(1): 268–280.
 
 
