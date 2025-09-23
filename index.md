@@ -3,7 +3,7 @@ layout: page
 title: "About"
 ---
 
-I am the Research Director for the [National Zoning Atlas](https://www.zoningatlas.org/). My work employs critical quantitative methods and geospatial techniques to illuminate how racial housing inequities have been reproduced through time in space. This frequently involves multi-method investigations into residential segregation and the racially uneven geographies of sub/urban development. A selection of this work can be found here:
+I am the Research Director for the [National Zoning Atlas](https://www.zoningatlas.org/). My work employs critical quantitative methods and geospatial techniques to illuminate how racial housing inequities have been reproduced through time in space. This frequently involves multi-method investigations into residential segregation and the racially uneven geographies of sub/urban development. A few examples of this work are listed here:
 
 - ["Underestimating racism? Decoupling race and redlining"](https://www.tandfonline.com/doi/abs/10.1080/24694452.2024.2350993) (2024) in *Annals of the American Association of Geographers* with Steve Holloway.
 - ["Planning spatial obsolescence: residential segregation and the racist theory of (anti-) value"](https://journals.sagepub.com/doi/abs/10.1177/02637758241261218) (2024) in *Environment and Planning D: Society and Space*.
