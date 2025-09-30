@@ -22,7 +22,7 @@ I am the Research Director for the [National Zoning Atlas (NZA)](https://www.zon
 
 
 ## Zoning Snapshots
-In addition to helping build the Atlas, I have also helped generate the NZA's [Zoning Snapshot series](https://www.zoningatlas.org/snapshots) and produced a first-of-its-kind statewide zoning report for [Colorado](https://www.zoningatlas.org/zoning-report-colorado-2025). This report and the attendant data visualizations summarize how zoning rules like allowed unit densities, minimum lot sizes, accessory dwelling unit (ADU) rules, and minimum parking requirements break down across jurisdictions within metropolitan regions.
+In addition to helping build the Atlas, I have also helped generate the NZA's [Zoning Snapshot series](https://www.zoningatlas.org/snapshots) and produced a first-of-its-kind statewide zoning report for [Colorado](https://www.zoningatlas.org/zoning-report-colorado-2025). This report and the attendant data visualizations summarize how zoning rules like allowed unit densities, minimum lot sizes, accessory dwelling unit (ADU) rules, and minimum parking requirements break down across jurisdictions.
 
 For example, looking at the snapshot figures from our Colorado Report below, we can see that across Colorado's 259 jurisdictions that exercise their zoning power and have made their data available to the NZA, single-family housing is allowed by right on a full 92% of the residentially zoned land. However, multifamily housing with four units or more is only allowed as of right on a mere 3% of Colorado's residential land.
 
