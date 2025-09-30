@@ -32,7 +32,7 @@ For example, looking at the snapshot figures from our Colorado Report below, we 
 </p>
 
 
-Our snapshot stats also summarize ADU and minimum lot size lot size rules. With NZA data, it is possible to compare these land use regulations across different places. For our Colorado Report, I compare ADU and minimum lot size requirements between Denver and five of its major suburbs. The results show some considerable variability between places. As the figure below illustrates, Denver and Littleton both allow ADUs as of right without any occupancy restrictions on all of their single-family land, whereas Westminster prohibits ADUs on all of this land.
+Our snapshot stats also summarize ADU and minimum lot size rules. With NZA data, it is possible to compare these land use regulations across different places. For our Colorado Report, I compare ADU and minimum lot size requirements between Denver and five of its major suburbs. The results show some considerable variability between places. As the figure below illustrates, Denver and Littleton both allow ADUs as of right without any occupancy restrictions on all of their single-family land, whereas Westminster prohibits ADUs on all of this land.
 
 Minimum lot size rules also vary between Denver and its suburbs. Denver, like most major cities, enforces fairly small lot requirements for single-family homes, mostly under a quarter acre. However, in suburbs like Lakewood and Littleton, a sizable share of their single-family land requires lots to be at least half an acre. Larger minimum lot sizes encourage environmentally destructive sprawl and inflate home prices, affecting affordability not just in these municipalities but across the metropolitan region.
 
