@@ -26,6 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Projects.md", title: "Projects"}
   - {url: "cv/markley_cv_202509a.pdf", title: "CV"}
   - {file: "Datasets.md", title: "Datasets"}
+  - {url: "uaa/markley-prez-uaa.pdf", title: "uaa"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
