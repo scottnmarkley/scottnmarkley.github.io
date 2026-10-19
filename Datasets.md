@@ -2,7 +2,7 @@
 layout: page
 title: "Data"
 permalink: /Datasets/
-lede: "Public-serving spatial datasets I have built or helped build. All are free to download and use."
+lede: "Public-serving spatial datasets I have built or helped build."
 ---
 
 ### [National Zoning Atlas](https://doi.org/10.4079/zoning-atlas)
