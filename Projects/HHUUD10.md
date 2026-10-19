@@ -1,21 +1,31 @@
 ---
-title: Historical Housing and Urbanization Project
+layout: page
+title: "Historical Housing and Urbanization"
+permalink: /Projects/HHUUD10/
+lede: "Housing unit counts and urbanization estimates for every census tract in the continental United States, decade by decade from 1940 to 2019, all in consistent 2010 boundaries."
 ---
 
-Along with my colleagues Steve Holloway, Taylor Hafley, and Mathew Hauer, I have constructed a database called the Historical Housing Unit and Urbanization Database v2010, or **HHUUD10**. This dataset provides housing unit counts and urbanization year estimates in consistent census tract boundaries for every tract in the Continental US from 1940 to 2019. HHUUD10 can be used to analyze the historical geographies of housing loss and gain, urban renewal, (sub)urbanization, and more. The data, the R and Python code used to construct it, and a full write-up of the methods are all free and open access at [*Scientific Data*](https://www.nature.com/articles/s41597-022-01184-x)! Altnernatively, the data and code can be downloaded directly from [Open Science Framework](https://osf.io/fzv5e/) or from [Esri's Living Atlas](https://www.arcgis.com/home/item.html?id=98efddc0d7b84ddea6d211f7958447d8).
+With my colleagues Steve Holloway, Taylor Hafley, and Mathew Hauer, I built the **Historical Housing Unit and Urbanization Database v2010**, or **HHUUD10**. It can be used to analyze the historical geographies of housing loss and gain, urban renewal, sub/urbanization, and land-use and environmental change. The data, the R and Python code used to build it, and a full write-up of the methods are free and open access in [*Scientific Data*](https://www.nature.com/articles/s41597-022-01184-x).
 
+<p class="btn-row"><a class="btn primary" href="https://osf.io/fzv5e/">Download on OSF</a><a class="btn" href="https://www.arcgis.com/home/item.html?id=98efddc0d7b84ddea6d211f7958447d8">Esri Living Atlas</a><a class="btn" href="https://www.nature.com/articles/s41597-022-01184-x">Methods paper</a></p>
 
-HHUUD10 data can be used to track historical housing unit changes at the tract level. The map below shows estimated housing unit changes from 1940 to 2019.
+## Housing unit change, 1940&ndash;2019
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<a href="https://usg.maps.arcgis.com/apps/instant/minimalist/index.html?appid=d2e0f6f161c547b9b82696e6d36c7207" target="_blank">See Map on ArcGIS Online <i class="fa fa-external-link"></i></a>
+HHUUD10 tracks housing unit change at the tract level. The map below shows estimated change from 1940 to 2019.
 
-<style>.embed-container {position: relative; padding-bottom: 53%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="850" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Tract-level Housing Unit Changes, 1940-2019" src="//usg.maps.arcgis.com/apps/Embed/index.html?webmap=998602f24b114562a7cef6408eeabdde&extent=-84.6318,33.6105,-84.1247,33.8438&zoom=true&previewImage=false&scale=true&legend=true&disable_scroll=false&theme=light"></iframe></div>
+<div class="map-frame"><iframe src="https://usg.maps.arcgis.com/apps/Embed/index.html?webmap=998602f24b114562a7cef6408eeabdde&amp;extent=-84.6318,33.6105,-84.1247,33.8438&amp;zoom=true&amp;previewImage=false&amp;scale=true&amp;legend=true&amp;disable_scroll=false&amp;theme=light" title="Tract-level housing unit changes, 1940-2019" loading="lazy"></iframe></div>
+<p class="map-note"><span>Map: ArcGIS Online</span><a href="https://usg.maps.arcgis.com/apps/instant/minimalist/index.html?appid=d2e0f6f161c547b9b82696e6d36c7207" target="_blank" rel="noopener">Open full-screen map &#8599;</a></p>
 
-HHUUD10 data can also be used to capture sub/urbanization through time. The graphic below shows this process in the Atlanta region. Once a tract surpasses 200 housing units per dasymetrically refined square mile&mdash;*i.e.*, the tract surface area minus water, parks, golf courses, airports, cemeteries, and railyards&mdash;or is significantly covered by non-residential urban land uses, we consider it "urban."
+## Sub/urbanization through time
 
+HHUUD10 also captures sub/urbanization. Once a tract passes 200 housing units per dasymetrically refined square mile (the tract area minus water, parks, golf courses, airports, cemeteries, and railyards), or is substantially covered by non-residential urban land uses, we consider it &ldquo;urban.&rdquo; The animation shows that process unfolding across metro Atlanta.
 
-<p style="text-align: center">
-   <figcaption><strong><em>Urbanization in Metro Atlanta by 2010 Census Tracts, 1940-2019</em></strong></figcaption>
-  <img src="/Projects/atl.gif" width="600" title="Urbanization in Metro Atlanta, 1940-2019"/>
-</p>
+<figure>
+<img src="/Projects/atl.gif" alt="Animated map of urbanization in metro Atlanta by census tract, 1940 to 2019" width="600">
+<figcaption><strong>Urbanization in metro Atlanta by 2010 census tract, 1940&ndash;2019.</strong></figcaption>
+</figure>
+
+## Read more
+
+- Markley, S., S. Holloway, T. Hafley, and M. Hauer. (2022). [Housing unit and urbanization estimates for the Continental U.S. in consistent tract boundaries, 1940&ndash;2019](https://www.nature.com/articles/s41597-022-01184-x). *Scientific Data* 9: 82.
+- Beauvais, J., S. Markley, and J.E. Byers. (2024). [Exponential growth of private coastal infrastructure influenced by geography and race in South Carolina, USA](https://www.nature.com/articles/s41598-024-59740-x). *Scientific Reports* 14: 9114.

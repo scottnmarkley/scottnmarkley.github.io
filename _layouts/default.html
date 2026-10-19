@@ -1,44 +1,61 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-<title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
-<meta charset="{{ site.encoding }}">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="author" content="{{ page.author | default: site.author | escape }}">
-<meta name="generator" content="Jekyll v{{ jekyll.version }}">
-<link rel="canonical" href="{{ page.url | absolute_url }}">
-{% if site.show_frame %}
-<link rel="stylesheet" href="{{ "/assets/css/frame.css" | relative_url }}">
-{% else %}
-<link rel="stylesheet" href="{{ "/assets/css/index.css" | relative_url }}">
-{% endif %}
-{% if site.plugins contains "jekyll-feed" %}<link rel="alternate" href="{{ site.feed.path | default: "/feed.xml" | relative_url }}" type="application/atom+xml" title="{{ site.title }}">{% endif %}
-{% if page.mathjax or site.mathjax %}
-<link rel="stylesheet" href="{{ "/assets/katex/katex.min.css" | relative_url }}">
-<script defer src="{{ "/assets/katex/katex.min.js" | relative_url }}"></script>
-<script defer src="{{ "/assets/katex/contrib/auto-render.min.js" | relative_url }}" onload="renderMathInElement(document.body)"></script>
-{% endif %}
-{% if site.comments.disqus_shortname and page.layout == "post" %}<script src="//{{ site.comments.disqus_shortname }}.disqus.com/embed.js" async></script>{% endif %}
-{% if site.comments.isso_domain and page.layout == "post" %}<script data-isso="http://{{ site.comments.isso_domain }}" src="//{{ site.comments.isso_domain }}/js/embed.min.js"></script>{% endif %}
-{% if site.show_sidebar or site.sidebar %}{% include sidebar.html %}{% endif %}
-
-{% if site.navigation %}
-  {% assign pages = site.navigation %}
-{% else %}
-  {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
-{% endif %}
-
-<header>
-  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
-  {% include menu.html menu=pages %}
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title and page.title != site.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+<meta name="description" content="{{ page.description | default: site.description }}">
+<meta name="author" content="{{ site.author }}">
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+<meta property="og:title" content="{{ page.title | default: site.title }}">
+<meta property="og:description" content="{{ page.description | default: site.description }}">
+<meta property="og:image" content="{{ site.url }}/assets/img/scott.jpg">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&family=Darker+Grotesque:wght@600;700&display=swap">
+<link rel="stylesheet" href="/assets/site.css?v=13"><!-- bump v when site.css changes so browsers don't serve a stale copy -->
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%231f4e79'/%3E%3Ctext x='16' y='22' font-family='Arial,Helvetica,sans-serif' font-weight='bold' font-size='14' text-anchor='middle' fill='white'%3ESM%3C/text%3E%3C/svg%3E">
+{{ page.head }}
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/">Scott Markley</a>
+    <nav class="site-nav" aria-label="Main">
+      <a href="/Projects/">Research</a>
+      <a href="/publications/">Publications</a>
+      <a href="/Datasets/">Data</a>
+      <a href="/cv/">CV</a>
+    </nav>
+  </div>
 </header>
 
+<main>
 {{ content }}
+</main>
 
-{% if site.external %}
-<footer>
-  <div>{{ site.description | default: site.title }}</div>
-  {% include menu.html menu=site.external %}
+<footer class="site-footer">
+  <div class="wrap">
+    <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+    <p class="footer-links">
+      <a href="https://scholar.google.com/citations?user=onwbEAoAAAAJ">Google Scholar</a>
+      <a href="https://github.com/snmarkley1">GitHub</a>
+      <a href="https://www.zoningatlas.org/">National Zoning Atlas</a>
+      <a href="https://www.landuselabs.com/">Land Use Labs</a>
+      <a href="{{ site.cv }}">CV (PDF)</a>
+    </p>
+  </div>
 </footer>
-{% endif %}
-
+<script>
+  // mark the current section in the nav
+  (function () {
+    var here = location.pathname.toLowerCase();
+    document.querySelectorAll('.site-nav a').forEach(function (a) {
+      var p = a.getAttribute('href').toLowerCase();
+      if (here === p || here.indexOf(p) === 0) a.setAttribute('aria-current', 'page');
+    });
+  })();
+</script>
+</body>
 </html>

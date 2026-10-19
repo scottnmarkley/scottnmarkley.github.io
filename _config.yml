@@ -1,43 +1,35 @@
 title: "Scott Markley"
 author: "Scott Markley"
-description: "&#9993; scott@landuseatlas.org"
-permalink: /:title/
+description: "Geographer and spatial data scientist studying zoning, housing, and racial inequality in US cities and suburbs."
+url: "https://scottnmarkley.github.io"
 lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+permalink: pretty
+markdown: kramdown
 
-# Layout
+# Current CV -- update this one line when a new CV goes in cv/
+cv: "/cv/markley_cv_202610_website.pdf"
+email: "scott@landuseatlas.org"
 
-show_social: true           # show social media links
-show_excerpts: false        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/Projects/HOLC.md", title: " "}
-  - {file: "/Projects/HHUUD10", title: " "}
-  - {file: "/Projects/suburbs.md", title: " "}
-  - {file: "/Projects/NZA.md", title: " "}
-  - {url: "holc_map.html", title: " "}
-  - {url: "apt_map.html", title: " "}
-  - {file: "Projects.md", title: "Projects"}
-  - {url: "cv/markley_cv_202509a.pdf", title: "CV"}
-  - {file: "Datasets.md", title: "Datasets"}
-  - {url: "uaa/markley-prez-uaa.pdf", title: " "}
-
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Github, icon: github, url: "https://github.com/snmarkley1"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/snmarkley"}
-  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=onwbEAoAAAAJ&hl=en&oi=ao"}
-  - {title: Mail, icon: envelope, url: "mailto:scott@landuseatlas.org"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
+# Left over from the old Contrast theme, R work, and drafts; kept in the repo
+# but not built into the site.
+exclude:
+  - _sass
+  - _includes
+  - _posts
+  - _data
+  - assets/css/frame.sass
+  - assets/css/index.sass
+  - assets/css/sidebar.sass
+  - assets/katex
+  - assets/fontawesome
+  - assets/fonts
+  - index_old.html
+  - archive.html
+  - README.md
+  - UNLICENSE.txt
+  - test.idyll
+  - snmarkley1.github.io.Rproj
+  - r_scripts
+  - tables
+  - Gemfile
+  - Gemfile.lock

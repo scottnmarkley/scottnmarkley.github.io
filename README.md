@@ -1,99 +1,24 @@
----
-title: "About"
-permalink: "/about/"
-layout: page
----
+# scottnmarkley.github.io
 
-## Installation
+Personal research site for Scott Markley, built by GitHub Pages with Jekyll. There is no local build step; pushing to `master` publishes the site.
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+## Layout
 
-## Features
+- `_layouts/default.html` holds the header, nav, and footer. `_layouts/page.html` wraps every interior page and reads `title`, `kicker`, and `lede` from front matter.
+- `assets/site.css` is the whole stylesheet (plain CSS, light and dark mode).
+- `index.html` is the home page. Interior pages are Markdown: `Projects/*.md`, `publications.md`, `Datasets.md`, `cv.md`.
+- Pages that need Leaflet load it through a `head:` block in their front matter (see `index.html`).
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+## Common updates
 
-## Based on
+- **New CV:** add the PDF to `cv/` and change the `cv:` line in `_config.yml`. Every CV link reads from it.
+- **New paper:** add an `<li>` to `publications.md`.
+- **Zoning report map:** the states and metros are listed at the top of `assets/zoning-map.js`.
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+## Basemaps
 
-## Installation (jekyll-remote-theme method)
+CARTO's free basemap tiles now draw an "API KEY REQUIRED" watermark. This is a public repo, so the maps don't use a CARTO key: anything in the HTML is readable by anyone. They use Esri's keyless World Light Gray and World Dark Gray canvases instead. The R-exported maps (`holc_map.html`, `apt_map.html`, `place_map.html`) were patched in place. If you re-export one from R, use `addProviderTiles("Esri.WorldGrayCanvas")` or an `addTiles()` call on the Esri canvas URL instead of `CartoDB.Positron` / `CartoDB.DarkMatter`.
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+## Leftovers
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+The old Contrast theme (`_sass/`, `_includes/`, `_posts/`, `_data/`, `assets/katex/`, `assets/fontawesome/`, `assets/fonts/`, `assets/css/`) is still in the repo but excluded from the build in `_config.yml`, and can be deleted.
