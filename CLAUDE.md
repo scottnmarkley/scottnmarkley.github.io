@@ -1,0 +1,33 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## What this is
+
+Scott Markley's personal research site, built by GitHub Pages with Jekyll. There is no build, lint, or test step: pushing to `master` publishes the site. For an optional local preview (needs Ruby), `bundle install` then `bundle exec jekyll serve`; `Gemfile.lock` and `_site/` are gitignored.
+
+## Architecture
+
+- **Two layouts only.** `_layouts/default.html` is the full page shell (head, nav, footer, a small script that sets `aria-current` on the active nav link). `_layouts/page.html` wraps interior pages in `<article class="wrap page">` and renders `title`, `kicker`, and `lede` from front matter. `index.html` uses `default` directly; the Markdown pages (`Projects/*.md`, `publications.md`, `Datasets.md`, `cv.md`) use `page`.
+- **Per-page scripts go in front matter.** `default.html` injects `{{ page.head }}` into `<head>`, so a page that needs Leaflet, d3, etc. declares the `<link>`/`<script defer>` tags in a `head: |` block (see `Projects/NZA.md`, `index.html`). Third-party libraries load from cdnjs/jsdelivr with pinned versions.
+- **Styles.** `assets/site.css` is the entire stylesheet (plain CSS with custom properties, light and dark mode). When you change it, bump the `?v=` query on its `<link>` in `default.html` so browsers don't serve a stale copy. JS reads theme colors from the CSS variables (`--accent`, `--blue`).
+- **Site-wide values live in `_config.yml`**: `cv:` (path of the current CV PDF; every CV link reads `site.cv`) and `email:`. `permalink: pretty`, so pages are served at `/Projects/NZA/`-style URLs; interior pages set explicit `permalink:` in front matter.
+- **Maps.**
+  - `assets/zoning-map.js` — Leaflet map of zoning reports on the NZA page. The states (keyed by FIPS) and metro/city points are hard-coded at the top of the file; that's where to add a new report. State shapes come from the `us-atlas` TopoJSON on jsdelivr.
+  - `assets/kc-maps.js` — d3 tract maps rendered into `<div data-kc-map="sf|mls">` from `assets/data/kc_tracts.json`; color ramps must match the HTML legends on the page.
+  - `apt_map.html` — standalone hand-written Leaflet page (iframed on `Projects/suburbs.md`) that loads `assets/data/atl_demolitions.json`. It uses Esri World Imagery, dimmed at overview zooms through CSS filters on the `.imagery` layer. Circle radii scale with zoom, and at the "ground" zoom (`GROUND_ZOOM`) the circles become open rings so the satellite view shows through. The zoom thresholds are constants at the top of its script.
+  - `holc_map.html` — self-contained R leaflet export (`r_scripts/`, data in `tables/`), iframed on `Projects/HOLC.md`.
+
+## Basemap constraint
+
+CARTO's free tiles now show an "API KEY REQUIRED" watermark, and this public repo must not carry an API key. Every map uses keyless Esri tiles: `Canvas/World_Light_Gray_Base` / `World_Dark_Gray_Base` (dark chosen via `prefers-color-scheme`), or `World_Imagery` for the demolitions map. `holc_map.html` was patched in place. If it's re-exported from R, use `addProviderTiles("Esri.WorldGrayCanvas")` (or `addTiles()` with the Esri canvas URL), not `CartoDB.Positron` / `CartoDB.DarkMatter`.
+
+## Common updates
+
+- **New CV:** add the PDF to `cv/` and change the `cv:` line in `_config.yml`.
+- **New paper:** add an `<li>` to `publications.md`.
+- **New zoning report on the map:** edit the `states` / `places` lists at the top of `assets/zoning-map.js`.
+
+## Not built
+
+`r_scripts/`, `tables/`, the `.Rproj`, `README.md`, `CLAUDE.md`, and the Gemfile are excluded via `exclude:` in `_config.yml`. Anything new that shouldn't be published must be added to that list too: Jekyll copies any other file, front matter or not, to the live site.
