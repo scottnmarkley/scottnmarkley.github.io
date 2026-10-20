@@ -10,7 +10,7 @@ lede: "Peer-reviewed articles, chapters, reports, and public writing. If you can
 ## Peer-reviewed articles
 
 <ul class="pubs">
-<li><span class="yr">2026</span> <b>Markley, S.</b>, S. Bronin, and M. Harris. <span class="pub-title"><a href="http://dx.doi.org/10.2139/ssrn.7391479">It&rsquo;s time to retire the Wharton Index</a></span>. Under review at <em>Housing Policy Debate</em>. <span class="note">Preprint</span></li>
+<li><span class="yr">2026</span> <b>Markley, S.</b>, S. Bronin, and M. Harris. <span class="pub-title"><a href="http://dx.doi.org/10.2139/ssrn.7391479">It&rsquo;s time to retire the Wharton Index</a></span>. Under review. <span class="note">Preprint</span></li>
 <li><span class="yr">2025</span> <b>Markley, S.</b> and A. Bonds. <span class="pub-title"><a href="https://doi.org/10.1080/02723638.2025.2492218">Race and value in space and time: a critical narrative cartography of the Home Owners&rsquo; Loan Corporation&rsquo;s Area Descriptions</a></span>. <em>Urban Geography</em> 46(9): 1921&ndash;1942.</li>
 <li><span class="yr">2025</span> Swope, C., <b>S. Markley</b>, S. Whittaker, and A. Hillier. <span class="pub-title"><a href="https://doi.org/10.2105/AJPH.2024.308000">How and why does redlining matter for present-day health? Critical perspectives on causality, cartography, and capitalism</a></span>. <em>American Journal of Public Health</em> 115: 769&ndash;779.</li>
 <li><span class="yr">2025</span> Spangler, I., E. Shaw, <b>S. Markley</b>, and D. Mahmoudi. <span class="pub-title"><a href="https://doi.org/10.1177/29768640251375903">We can&rsquo;t count our way out: rethinking quantification amidst digital authoritarianism</a></span>. <em>Dialogues on Digital Society</em> 1(3): 442&ndash;451.</li>
