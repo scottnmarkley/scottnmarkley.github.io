@@ -21,7 +21,7 @@ I am the Research Director of the [National Zoning Atlas](https://www.zoningatla
 Every zoning code is both a text and a map, and some 33,000 jurisdictions each write their own, with no common standard. Maps and texts are amended on different schedules, source GIS layers are full of gaps and overlaps, and many maps still arrive as scanned PDFs. Overlay districts add another layer of difficulty. Boston has 287 mapped base districts and 20 mapped overlay districts, with as many as six overlays stacked on a single parcel.
 
 <figure>
-<img src="/assets/img/boston_overlays.jpg" alt="Map of Boston shaded by the number of mapped zoning overlays on each piece of land, from zero to six" width="640">
+<img src="/assets/img/boston_overlays.jpg" class="narrow" alt="Map of Boston shaded by the number of mapped zoning overlays on each piece of land, from zero to six">
 <figcaption><strong>Boston: number of mapped overlays on each piece of land.</strong></figcaption>
 </figure>
 

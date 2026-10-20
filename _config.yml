@@ -10,12 +10,13 @@ markdown: kramdown
 cv: "/cv/markley_cv_202610_website.pdf"
 email: "scott@landuseatlas.org"
 
-# R source work, docs, and local-preview files; kept in the repo but not built into the site.
+# R source work, chart scripts, docs, and local-preview files; kept in the repo but not built into the site.
 exclude:
   - README.md
   - CLAUDE.md
   - snmarkley1.github.io.Rproj
   - r_scripts
+  - chart_scripts
   - tables
   - Gemfile
   - Gemfile.lock

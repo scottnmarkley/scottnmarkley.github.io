@@ -21,7 +21,7 @@ HHUUD10 tracks housing unit change at the tract level. The map below shows estim
 HHUUD10 also captures sub/urbanization. Once a tract passes 200 housing units per dasymetrically refined square mile (the tract area minus water, parks, golf courses, airports, cemeteries, and railyards), or is substantially covered by non-residential urban land uses, we consider it &ldquo;urban.&rdquo; The animation shows that process unfolding across metro Atlanta.
 
 <figure>
-<img src="/Projects/atl.gif" alt="Animated map of urbanization in metro Atlanta by census tract, 1940 to 2019" width="600">
+<img src="/Projects/atl.gif" class="narrow" alt="Animated map of urbanization in metro Atlanta by census tract, 1940 to 2019">
 <figcaption><strong>Urbanization in metro Atlanta by 2010 census tract, 1940&ndash;2019.</strong></figcaption>
 </figure>
 
